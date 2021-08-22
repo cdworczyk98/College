@@ -1,0 +1,44 @@
+﻿<Window x:Class="SimplyRugby.PlayerForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyRugby"
+        mc:Ignorable="d"
+        Title="PlayerForm" Height="315.511" Width="277.747">
+    <Grid>
+        <Button x:Name="BTN_Back" Content="Back" HorizontalAlignment="Left" Margin="170,255,0,0" VerticalAlignment="Top" Width="75" Click="BTN_Back_Click" Background="#FF00A40C"/>
+        <Button x:Name="BTN_Save" Content="Save" HorizontalAlignment="Left" Margin="90,255,0,0" VerticalAlignment="Top" Width="75" Click="BTN_Save_Click" Background="#FF00A40C"/>
+        <Button x:Name="BTN_NewPlayer" Content="New Player" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" Width="75" Click="BTN_NewPlayer_Click" Background="#FF00A40C"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top"/>
+        <Label Content="Date Of Birth" HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="DOBPicker" HorizontalAlignment="Left" Margin="94,185,0,0" VerticalAlignment="Top" Height="26" Width="151" Background="#FF00A40C"/>
+        <TextBox x:Name="TXTBOX_Name" HorizontalAlignment="Left" Height="26" Margin="94,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Foreground="#FF00A40C" BorderBrush="#FF00A40C" MaxLength="20"/>
+        <Label Content="SRU Number" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="E-Mail" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTBOX_SRU" HorizontalAlignment="Left" Height="26" Margin="94,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" PreviewTextInput="TXTBOX_SRU_PreviewTextInput" MaxLength="8" BorderBrush="#FF00A40C"/>
+        <TextBox x:Name="TXTBOX_Email" HorizontalAlignment="Left" Height="26" Margin="94,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" BorderBrush="#FF00A40C"/>
+        <Label Content="SimplyRugby" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="LBL_Alert" Content="Adding new player!" HorizontalAlignment="Left" Margin="16,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Parental Consent" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top" Width="103"/>
+        <ComboBox x:Name="COMBOX_Consent" HorizontalAlignment="Left" Margin="113,211,0,0" VerticalAlignment="Top" Width="132" Height="26">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF00A40C" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem Content="Yes"/>
+            <ComboBoxItem Content="No"/>
+            <ComboBoxItem Content="N/A (Age over 18)"/>
+        </ComboBox>
+        <Button x:Name="BTN_SRUQuestion" Content="" HorizontalAlignment="Left" Margin="245,110,0,0" VerticalAlignment="Top" Width="20" Click="BTN_SRUQuestion_Click" ToolTipService.InitialShowDelay="300" ToolTipService.ShowDuration="100000" ToolTipService.BetweenShowDelay="1000" ToolTip="Why can i not edit the SRU field?">
+            <Button.Background>
+                <ImageBrush ImageSource="Icon_QuestionMark.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Emergency Number" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTBOX_Phone" HorizontalAlignment="Left" Height="26" Margin="125,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="#FF00A40C" MaxLength="11" PreviewTextInput="TXTBOX_Phone_PreviewTextInput"/>
+
+    </Grid>
+</Window>

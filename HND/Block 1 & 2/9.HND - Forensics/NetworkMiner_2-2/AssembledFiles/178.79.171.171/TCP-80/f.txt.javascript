@@ -1,0 +1,1 @@
+/**/__jsonp1__([{"id":"1","channel":"/meta/handshake","successful":true,"version":"1.0","supportedConnectionTypes":["long-polling","cross-origin-long-polling","callback-polling","websocket","eventsource","in-process"],"clientId":"nndr306admt2il4c2papwf5gpa9n3ga","advice":{"reconnect":"retry","interval":0,"timeout":45000}}]);

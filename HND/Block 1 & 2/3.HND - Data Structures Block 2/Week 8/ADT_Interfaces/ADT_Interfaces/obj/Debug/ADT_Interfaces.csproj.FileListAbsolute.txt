@@ -1,0 +1,6 @@
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\bin\Debug\ADT_Interfaces.exe.config
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\bin\Debug\ADT_Interfaces.exe
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\bin\Debug\ADT_Interfaces.pdb
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\obj\Debug\ADT_Interfaces.csprojResolveAssemblyReference.cache
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\obj\Debug\ADT_Interfaces.exe
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\Week 8\ADT_Interfaces\ADT_Interfaces\obj\Debug\ADT_Interfaces.pdb

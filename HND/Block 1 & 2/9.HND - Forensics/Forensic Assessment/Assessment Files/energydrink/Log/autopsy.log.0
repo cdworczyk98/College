@@ -1,0 +1,30 @@
+Thu May 31 09:32:45 BST 2018 org.sleuthkit.autopsy.imagegallery.gui.Toolbar initialize
+WARNING: Could not create Follow Up tag menu item
+Thu May 31 09:32:45 BST 2018 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+Thu May 31 09:32:46 BST 2018 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened energydrink (energydrink_20180517_105755) in F:\HND\Block 1 & 2\9.HND - Forensics\Forensic Assessment\Assessment Files\energydrink as the current case
+Thu May 31 09:32:46 BST 2018 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+Thu May 31 09:32:47 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:32:47 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:32:47 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:42:35 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:42:35 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:42:37 BST 2018 org.sleuthkit.autopsy.directorytree.ExternalViewerAction actionPerformed
+WARNING: Can't save to temporary file.
+Thu May 31 09:47:15 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:47:15 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:51:54 BST 2018 org.sleuthkit.autopsy.datamodel.ContentUtils$ExtractFscContentVisitor visit
+SEVERE: Trouble extracting file to \\ForensicServer\Students\20112915\Desktop\_rink.wma
+Thu May 31 09:55:58 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp: javax.imageio.IIOException: No ImageReader found.
+Thu May 31 09:55:58 BST 2018 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
+WARNING: ImageIO could not read /img_usbimage.001/_rink.bmp.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.

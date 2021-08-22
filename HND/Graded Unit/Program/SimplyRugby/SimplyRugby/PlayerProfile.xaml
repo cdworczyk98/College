@@ -1,0 +1,119 @@
+﻿<Window x:Class="SimplyRugby.PlayerProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyRugby"
+        mc:Ignorable="d"
+        Title="PlayerProfile" Height="513.7" Width="528">
+    <Grid>
+        <Button x:Name="BTN_Back" Content="Back" HorizontalAlignment="Left" Margin="12,452,0,0" VerticalAlignment="Top" Width="75" Click="BTN_Back_Click" Height="20" Background="#FF00A40C"/>
+        <Label Content="Passing" HorizontalAlignment="Left" Margin="20,120,0,0" VerticalAlignment="Top" Height="84" Width="67"/>
+        <Label Content="Standard" HorizontalAlignment="Left" Margin="92,120,0,0" VerticalAlignment="Top" Height="28" Width="106" BorderBrush="#FF00A40C"/>
+        <Label Content="Spin" HorizontalAlignment="Left" Margin="92,148,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Pop" HorizontalAlignment="Left" Margin="92,176,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Tackling" HorizontalAlignment="Left" Margin="20,209,0,0" VerticalAlignment="Top" Height="111" Width="67"/>
+        <Label Content="Front" HorizontalAlignment="Left" Margin="87,209,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Rear" HorizontalAlignment="Left" Margin="87,242,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Side" HorizontalAlignment="Left" Margin="87,266,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Scrabble" HorizontalAlignment="Left" Margin="87,294,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Kicking" HorizontalAlignment="Left" Margin="20,329,0,0" VerticalAlignment="Top" Height="110" Width="67"/>
+        <Label Content="Drop" HorizontalAlignment="Left" Margin="92,329,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Punt" HorizontalAlignment="Left" Margin="92,356,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Grubber" HorizontalAlignment="Left" Margin="92,384,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Goal" HorizontalAlignment="Left" Margin="92,411,0,0" VerticalAlignment="Top" Height="28" Width="106"/>
+        <Label Content="Category" HorizontalAlignment="Left" Margin="20,89,0,0" VerticalAlignment="Top" Width="67" FontWeight="Bold" Height="26"/>
+        <Label Content="Skill" HorizontalAlignment="Left" Margin="92,89,0,0" VerticalAlignment="Top" Width="106" FontWeight="Bold" Height="26"/>
+        <ComboBox x:Name="SkillBox_Standard" HorizontalAlignment="Left" Margin="198,122,0,0" VerticalAlignment="Top" Width="120" Height="28" BorderBrush="#FF00A40C">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <Label Content="Skill Level" HorizontalAlignment="Left" Margin="203,89,0,0" VerticalAlignment="Top" Width="120" FontWeight="Bold" Height="26"/>
+        <Label Content="Comments" HorizontalAlignment="Left" Margin="323,89,0,0" VerticalAlignment="Top" Width="126" FontWeight="Bold" Height="26"/>
+        <Button x:Name="BTN_Save" Content="Save" HorizontalAlignment="Left" Margin="92,452,0,0" VerticalAlignment="Top" Width="75" Height="20" Click="BTN_Save_Click" Background="#FF00A40C"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Top" Height="26" Width="44"/>
+        <Label Content="Squad:" HorizontalAlignment="Left" Margin="15,26,0,0" VerticalAlignment="Top" Height="26" Width="46"/>
+        <Label Content="SimplyRugby" HorizontalAlignment="Left" Margin="350,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="42" Width="160"/>
+        <Label x:Name="LBL_Name" Content="" HorizontalAlignment="Left" Margin="66,0,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LBL_Squad" Content="" HorizontalAlignment="Left" Margin="66,26,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="SkillBox_Spin" HorizontalAlignment="Left" Margin="198,148,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Pop" HorizontalAlignment="Left" Margin="198,176,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Front" HorizontalAlignment="Left" Margin="198,209,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Rear" HorizontalAlignment="Left" Margin="198,237,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Side" HorizontalAlignment="Left" Margin="198,265,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Scrabble" HorizontalAlignment="Left" Margin="198,292,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Drop" HorizontalAlignment="Left" Margin="198,328,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Punt" HorizontalAlignment="Left" Margin="198,356,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Grubber" HorizontalAlignment="Left" Margin="198,384,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="SkillBox_Goal" HorizontalAlignment="Left" Margin="198,412,0,0" VerticalAlignment="Top" Width="120" Height="28">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <TextBox x:Name="TXTBOX_Passing" HorizontalAlignment="Left" Height="84" Margin="323,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="187" VerticalScrollBarVisibility="Auto" MaxLength="200" BorderBrush="#FF00A40C"/>
+        <TextBox x:Name="TXTBOX_Tackling" HorizontalAlignment="Left" Height="110" Margin="323,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="187" VerticalScrollBarVisibility="Auto" MaxLength="200" BorderBrush="#FF00A40C"/>
+        <TextBox x:Name="TXTBOX_Kicking" HorizontalAlignment="Left" Height="110" Margin="323,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="187" VerticalScrollBarVisibility="Auto" MaxLength="200" BorderBrush="#FF00A40C"/>
+        <Label Content="Last edit:" HorizontalAlignment="Left" Margin="15,52,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LBL_LastEdited" Content="" HorizontalAlignment="Left" Margin="72,52,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,89 @@
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe.config
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.pdb
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csprojResolveAssemblyReference.cache
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.g.cs
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.g.cs
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.g.cs
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\Roster.g.cs
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\App.g.cs
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.cache
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.lref
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.baml
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.baml
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.baml
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\Roster.baml
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.g.resources
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.Properties.Resources.resources
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.GenerateResource.cache
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.CoreCompileInputs.cache
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.exe
+c:\users\cdwor\source\repos\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.pdb
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe.config
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.pdb
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csprojResolveAssemblyReference.cache
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.g.cs
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.g.cs
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.g.cs
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.g.cs
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\App.g.cs
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.cache
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.lref
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.baml
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.baml
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.baml
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.baml
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.g.resources
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.Properties.Resources.resources
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.GenerateResource.cache
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.CoreCompileInputs.cache
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.exe
+G:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.pdb
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe.config
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.exe
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.pdb
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.pdb
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\mscorlib.dll
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\normidna.nlp
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\normnfc.nlp
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\normnfd.nlp
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\normnfkc.nlp
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\normnfkd.nlp
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csprojResolveAssemblyReference.cache
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.g.cs
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.g.cs
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.g.cs
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.g.cs
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\App.g.cs
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.cache
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.lref
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.baml
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.baml
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.baml
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.baml
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.g.resources
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.Properties.Resources.resources
+E:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.GenerateResource.Cache
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe.config
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.exe
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\bin\Debug\SimplyRugby.pdb
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csprojResolveAssemblyReference.cache
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.g.cs
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.g.cs
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.g.cs
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.g.cs
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\App.g.cs
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.cache
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby_MarkupCompile.lref
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\MainWindow.baml
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerForm.baml
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\PlayerProfile.baml
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\Roster.baml
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.g.resources
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.Properties.Resources.resources
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.GenerateResource.cache
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.csproj.CoreCompileInputs.cache
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.exe
+F:\HND\Graded Unit\Program\SimplyRugby\SimplyRugby\obj\Debug\SimplyRugby.pdb

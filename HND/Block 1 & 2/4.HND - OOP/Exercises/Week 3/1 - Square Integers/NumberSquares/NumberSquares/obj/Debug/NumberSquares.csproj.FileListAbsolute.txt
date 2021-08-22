@@ -1,0 +1,14 @@
+C:\Users\dawnwilson\AppData\Local\Temporary Projects\NumberSquares\bin\Debug\NumberSquares.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\bin\Debug\NumberSquares.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\bin\Debug\NumberSquares.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\bin\Debug\NumberSquares.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.csprojResolveAssemblyReference.cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\MainWindow.baml
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\MainWindow.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\App.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares_MarkupCompile.cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.g.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.Properties.Resources.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.csproj.GenerateResource.Cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\1 - Square Integers\NumberSquares\NumberSquares\obj\Debug\NumberSquares.pdb

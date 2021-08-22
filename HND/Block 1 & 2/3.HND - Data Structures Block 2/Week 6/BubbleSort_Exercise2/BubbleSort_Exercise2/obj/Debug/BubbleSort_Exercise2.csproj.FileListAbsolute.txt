@@ -1,0 +1,12 @@
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\bin\Debug\BubbleSort_Exercise2.exe.config
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\bin\Debug\BubbleSort_Exercise2.exe
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\bin\Debug\BubbleSort_Exercise2.pdb
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.exe
+C:\Users\Rich\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.pdb
+C:\Users\oelebiju\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\bin\Debug\BubbleSort_Exercise2.exe.config
+C:\Users\oelebiju\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.exe
+C:\Users\oelebiju\Desktop\DS\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.pdb
+S:\hdcomp\OE\HND_Software Development\HND_Data Structures\Block 2\Week 6\BubbleSort_Exercise2\BubbleSort_Exercise2\bin\Debug\BubbleSort_Exercise2.exe.config
+S:\hdcomp\OE\HND_Software Development\HND_Data Structures\Block 2\Week 6\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.exe
+S:\hdcomp\OE\HND_Software Development\HND_Data Structures\Block 2\Week 6\BubbleSort_Exercise2\BubbleSort_Exercise2\obj\Debug\BubbleSort_Exercise2.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="SimplyRugby.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyRugby"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="SimplyRugby_Background.jpg"/>
+        </Grid.Background>
+        <Button x:Name="BTN_Login" Content="Login" HorizontalAlignment="Left" Margin="213,264,0,0" VerticalAlignment="Top" Width="74" Click="BTN_Login_Click"/>
+        <ComboBox x:Name="COMBO_User" HorizontalAlignment="Left" Margin="191,153,0,0" VerticalAlignment="Top" Width="120" Height="21">
+            <ComboBoxItem Content="Admin"/>
+            <ComboBoxItem Content="Coach"/>
+        </ComboBox>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="191,179,0,0" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontSize="16" Foreground="#FF00A40C" Background="White" Height="29"/>
+        <Label Content="User Type" HorizontalAlignment="Left" Margin="191,120,0,0" VerticalAlignment="Top" Width="118" Background="White" FontSize="14" FontWeight="Bold" Height="28" Foreground="#FF00A40C"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Margin="191,213,0,0" VerticalAlignment="Top" Width="120" Height="21"/>
+    </Grid>
+</Window>

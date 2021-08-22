@@ -1,0 +1,2427 @@
+From: "Saved by Internet Explorer 11"
+Subject: Media Formats Explained
+Date: Fri, 11 Mar 2016 15:28:24 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_00A2_01D17BAA.A6BC4C70"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dr-lex.be/info-stuff/mediaformats.html
+
+=EF=BB=BF<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" =
+"http://www.w3.org/TR/html4/strict.dtd"><HTML><HEAD><META=20
+content=3D"IE=3D11.0000" http-equiv=3D"X-UA-Compatible">
+ <TITLE>Media Formats Explained</TITLE>=20
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">=20
+<META name=3D"author" content=3D"Alexander Thomas">=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.9600.18231">=20
+<STYLE type=3D"text/css"><!--=0A=
+H3 {margin-bottom: 0em}=0A=
+LI.sml {font-size: .9em; margin-bottom: .5em}=0A=
+--></STYLE>
+=20
+<META name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0"> <LINK=20
+href=3D"http://www.dr-lex.be/lexStyles.css" rel=3D"stylesheet" =
+type=3D"text/css">=20
+</HEAD>=20
+<BODY class=3D"edu">
+<DIV id=3D"header">
+<DIV class=3D"navlevel2"><!--HTMLTW includeFile=3D"nav-info.emb"-->
+<DIV class=3D"navbox0"><A class=3D"nav0" =
+href=3D"http://www.dr-lex.be/index.html">
+<DIV class=3D"navlogo">&nbsp;</DIV>Dr. Lex' Site</A>&nbsp;</DIV>
+<DIV class=3D"navbox1"><A class=3D"nav1" =
+href=3D"http://www.dr-lex.be/info-stuff/index.html">Educative</A>&nbsp;</=
+DIV><!--/HTMLTW-->
+<DIV class=3D"navbox2">About Media Formats&nbsp;</DIV>
+<DIV class=3D"navBadge">
+<DIV id=3D"plusOneNav"></DIV></DIV></DIV></DIV>
+<DIV id=3D"wrapDeco">
+<DIV id=3D"headMargin">&nbsp;</DIV>
+<DIV class=3D"article">
+<H1>MOV, WMV, AVI, MPEG, MP3, OGG, WMA, =E2=80=A6 Media Formats =
+Explained</H1>
+<P>Like my <A =
+href=3D"http://www.dr-lex.be/info-stuff/top13not2do.html">=E2=80=9CTop =
+13=20
+things not to do=E2=80=9D</A> page, this page is mainly intended to vent =
+my irritation=20
+towards things that bother me on the internet. The topic of today is=20
+(multi)media formats and the lack of knowledge thereabout by the average =
+person.=20
+Many people do not know the difference between a <EM>container =
+format</EM> and a=20
+<EM>codec</EM>. Other people have some =E2=80=94 mostly unjustified =
+=E2=80=94 hatred against=20
+certain media formats and try to justify this hatred with =
+pseudo-knowledge when=20
+bashing those formats on forums and newsgroups. This hatred is often =
+rooted in=20
+ignorance about the subject in question. Instead of descending to the =
+same level=20
+as those people and insulting them on the same forums and newsgroups, I =
+will now=20
+try to give a shot at re-education. </P>
+<P style=3D"font-style: italic;">This article was written around the =
+year 2006 and=20
+has since been updated only sporadically. Although the first parts are =
+general=20
+and will always be applicable, the information about specific =
+containers, codecs=20
+and media players is starting to become dated (e.g. there are newer =
+codecs, the=20
+latest WMV codecs are not as closed and proprietary as the ones at the =
+time this=20
+article was written, etc.) I gave up on keeping the page updated with=20
+information about the latest new codecs, therefore you may want to look=20
+elsewhere if you want to have the most up-to-date information. </P>
+<DIV id=3D"toc" style=3D"margin-bottom: 2em;"><!--DYNLIST type=3D"U" =
+dingbat=3D1-->
+<UL>=20
+  <LI><A=20
+  =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#summary">Summar=
+y</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#container">Cont=
+ainer=20
+  formats, or formats in short</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#codecs">Codecs<=
+/A></LI>
+  <LI><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#players">Media =
+
+  formats vs. players</A></LI>
+  <LI><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#hated">Why are =
+
+  certain formats hated by certain people?</A></LI>
+  <LI><A=20
+  =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#webmovies">Whic=
+h=20
+  format/codec should I use for my web =
+movies?</A></LI></UL><!--/DYNLIST--></DIV>
+<H2><A name=3D"summary">Summary</A></H2>
+<P>Because this text is quite long, here's a summary.<BR>A media file =
+like a=20
+.MOV, .AVI or .WMV, is a <EM>container</EM> file. If you're talking =
+about a=20
+<EM>=E2=80=98format=E2=80=99</EM>, you are actually talking about the =
+container format. A=20
+container file specifies how the data streams inside it are organized, =
+but=20
+doesn't say anything about how the actual data is represented. This is =
+the task=20
+of the <EM>codecs</EM>. A codec describes how video or audio data is to =
+be=20
+compressed and decompressed. Theoretically, you can use any codec inside =
+any=20
+container format. However, codecs are traditionally licensed exclusively =
+to a=20
+certain format. For instance, the Sorenson codec is only found in =
+QuickTime=20
+files and WMV video is only used in Windows Media files.<BR>Many people =
+don't=20
+know the difference between formats and codecs, hence think that all =
+QuickTime=20
+files use the infamous Sorenson codec and are a pain in the ass to play. =
+Or,=20
+they think that AVI files will always be good quality because they would =
+use the=20
+DIVX codec.<BR>There is no =E2=80=98ideal=E2=80=99 format for all =
+situations. Some formats are=20
+easier to use on certain platforms, some are nearly impossible to use. =
+If you=20
+need to embed movies in your website, the best way to deal with this =
+problem is=20
+to give the user a choice between several different formats. </P>
+<H2>Container formats vs. codecs</H2>
+<H3><A name=3D"container">Container formats, or formats in =
+short</A></H3>
+<P><IMG width=3D"206" height=3D"264" title=3D"A typical MP4 file" =
+class=3D"right" alt=3D"Media container file example"=20
+src=3D"http://www.dr-lex.be/info-stuff/infoimages/mediaformats_example.pn=
+g">The=20
+most common mistake people make, is confusing <EM>container formats</EM> =
+with=20
+<EM>codecs</EM>. Many people hate QuickTime, but in fact what they're =
+actually=20
+hating is the Sorenson codec, even though they don't even know what it =
+is. Other=20
+people think AVI is a great format because it delivers good quality. I =
+can make=20
+you an AVI that will make you puke. And other people wonder why one AVI =
+or MOV=20
+plays fine on their computer while another one gives no image or sound. =
+</P>
+<P>When you download an AVI, MOV or WMV movie, you're downloading a=20
+<EM>container</EM> file. As the name says, it is a file which contains =
+something=20
+else. In the specifications for MOV or AVI files, you will find nothing =
+about=20
+how to store, compress or decompress actual video or audio data. The =
+only thing=20
+these files do, is providing a wrapper around data streams. When talking =
+about a=20
+=E2=80=98format=E2=80=99, you're talking about the structure of a =
+container file. So saying that=20
+<CITE>=E2=80=9Cthe AVI format has good video compression=E2=80=9D</CITE> =
+is nonsense, because=20
+the format has nothing to do with how the video is compressed. </P>
+<P><IMG width=3D"128" height=3D"192" class=3D"left" alt=3D"Internal =
+structure of container file"=20
+src=3D"http://www.dr-lex.be/info-stuff/infoimages/mediaformats_structure.=
+png">Inside=20
+those container files, there are one or more <EM>data streams</EM>. The =
+most=20
+common files have one video stream and one audio stream, but in more =
+advanced=20
+formats like QuickTime, there can be any amount and type of streams. Any =
+
+container that is designed for streaming (either from a sequential =
+medium like a=20
+DVD, or the internet) will interleave the streams in chunks. This =
+ensures that=20
+data that belongs together temporally, e.g. audio chunks that belong =
+with=20
+certain video frames, can also be read from approximately the same =
+location=20
+inside the file. Again, the format specifications only say how these =
+streams are=20
+to be included in the file, not what's in the streams themselves. This =
+is where=20
+the <A=20
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#codecs"><EM>cod=
+ecs</EM></A>=20
+come into play. </P>
+<P>In almost all cases, video and audio data will be =
+<EM>compressed</EM>, which=20
+means it will be stored in a way that takes less space than if the data =
+would=20
+simply be represented in raw form. The compression scheme will typically =
+be=20
+specified by the codec and is often an integral part of it. A simple =
+codec could=20
+take a raw stream of data and send it through a compression scheme like =
+ZIP, but=20
+most practical codecs will try to do something more advanced. =
+Compression=20
+schemes are divided into two categories: a codec that preserves the =
+original=20
+data with perfect accuracy is called a <EM>lossless</EM> codec, a codec =
+that is=20
+unable to perfectly reconstruct the original data is called a =
+<EM>lossy</EM>=20
+codec. Lossy codecs are designed such that they degrade the signal in a =
+way that=20
+is minimally visible or audible. They do this by throwing away data that =
+is the=20
+least noticeable according to a so-called psychoacoustic or psychovisual =
+model.=20
+</P>
+<P style=3D"clear: both;">A short list of the most common container =
+formats, the=20
+file extensions they use, and a bit of history: </P>
+<UL>
+  <LI class=3D"sml"><STRONG>QuickTime (.MOV, .QT):</STRONG> this was the =
+first=20
+  real successful multimedia format, introduced by Apple Computer, and =
+it dates=20
+  back to 1991. The first versions were only available for Mac OS but a =
+Windows=20
+  version soon followed. From the start on, QuickTime was quite =
+advanced, with=20
+  support for any amount of streams and multi-segmented files. Editing a =
+movie=20
+  is simple and intuitive. Later versions even allowed scripting and =
+interactive=20
+  features. I remember viewing (albeit very short) movies of Apollo =
+launches and=20
+  a heap of camel bones fusing into a skeleton, while on a PC the most =
+exciting=20
+  thing one could do was watching an animated GIF.</LI>
+  <LI class=3D"sml" id=3D"fnRef1a"><STRONG>Video for Windows =
+(.AVI):</STRONG> of=20
+  course Microsoft had to make a clone<SUP><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fn1">(1a)</A></=
+SUP>=20
+  of QuickTime as soon as possible, and they managed to do it within one =
+year.=20
+  Maybe this is why the original VfW specification was such a braindead =
+format.=20
+  It didn't have most of the advanced features QuickTime has. The format =
+was=20
+  extended by the OpenDML group to tackle some limitations of the =
+original=20
+  specification. Later on, MS dropped support for AVI in favour of their =
+new WMV=20
+  format. One reason was that VfW was not a big success. The main reason =
+however=20
+  was probably because AVI had become the format of choice for pirated =
+movies =E2=80=94=20
+  maybe due to the link between the simplicity of the format and the =
+simplicity=20
+  of the average teenage scriptkiddie pirate. Arrrr. Technically =
+however, those=20
+  movies are not AVI files because Microsoft's VfW specification doesn't =
+allow=20
+  the use of the typical pirate codecs.</LI>
+  <LI class=3D"sml"><STRONG>DivX (.DIVX):</STRONG> at the time of this =
+writing,=20
+  this format is totally identical to AVI, at least the kind of =
+unofficial AVI=20
+  with the non-standard codecs. This is also the reason why the company =
+which=20
+  produces the (now legal) DivX codec has changed the file extension. =
+Although=20
+  Microsoft abandoned AVI, they still don't like it to be associated =
+with=20
+  pirated movies. Mind that due to this name change there's now a =
+<EM>DivX=20
+  format</EM> and a <EM>DivX codec</EM>.</LI>
+  <LI class=3D"sml"><STRONG>RealVideo (.RM):</STRONG> this was one of =
+the first=20
+  more succesful competitors for QuickTime, although it never really =
+became very=20
+  popular either, probably due to the fact that initially it could only =
+be=20
+  played in the extremely proprietary RealPlayer. There is also an =
+audio-only=20
+  variant called <STRONG>RealAudio (.RA, .RAM)</STRONG>.</LI>
+  <LI class=3D"sml"><STRONG>Windows Media (.WMV, .WMA, .ASF, =
+.ASX):</STRONG>=20
+  Microsoft's second attempt to dethrone QuickTime was more succesful. =
+It was=20
+  just a matter of timing and abusing their 95% market share for the =
+umpteenth=20
+  time. Contrary to the time when VfW was introduced, now the average =
+people=20
+  actually started to use video on their PC. Windows Media being bundled =
+with=20
+  Windows, it really didn't matter how good or bad it was. Being =
+preinstalled=20
+  gave it a huge edge over QuickTime, which had to be installed by the =
+user. The=20
+  MS monopoly did the rest.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-1 (.MPG, .MPEG, .MPE):</STRONG> this is =
+a format=20
+  designed by the ISO, or International Organization for =
+Standardization. It is=20
+  about as braindead as AVI, but was much more popular due to the fact =
+that it=20
+  is an ISO standard, and was inherently linked to a compression scheme =
+which=20
+  was really good at that time. The format was, and is still used in =
+Video CD's=20
+  (VCD). The nice thing about this format is that it's an <EM>open=20
+  standard</EM>. This means that playback is supported pretty much =
+everywhere,=20
+  although you need to pay a license to make an encoder.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-2 (.VOB):</STRONG> this is an update of =
+the=20
+  MPEG-1 format, and is also an ISO standard. It is the format used for =
+DVD=20
+  movies. It is also inherently linked with certain compression schemes =
+which=20
+  allow better quality than the ones from MPEG-1.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-4 (.MP4):</STRONG> another installment =
+in the=20
+  MPEG series, offering much advanced features over the previous. =
+Because it was=20
+  supposed to offer similar features as QuickTime, MPEG-4 is in fact a =
+fusion of=20
+  QuickTime and the older MPEG standards. Apple has decoupled QuickTime =
+from the=20
+  .MOV format and made .MP4 the default format for the QuickTime 7=20
+platform.</LI>
+  <LI class=3D"sml"><STRONG>Audio Interchange Format File (.AIFF, .AIF) =
+and=20
+  Windows WAVE audio (.WAV):</STRONG> as the names say, these formats =
+can only=20
+  handle sound. I take them together because they're pretty much =
+equivalent and=20
+  are subsets of the more general IFF format. AIFF is popular on Mac OS =
+and some=20
+  flavours of UNIX, WAV in Windows. Traditionally, an AIF or WAV holds =
+simple=20
+  uncompressed audio. But the format specification actually allows to =
+use any=20
+  codec, so you can e.g. have a WAV or AIF with MP3 audio.</LI>
+  <LI class=3D"sml"><STRONG>Ogg (.ogg):</STRONG> this is an open-source =
+format,=20
+  which is only supposed to contain Vorbis or FLAC audio and Theora =
+video=20
+  streams. Vorbis was designed as a royalty-free alternative to the MP3 =
+and WMA=20
+  codecs which require a license to be used. On top of that, it offers a =
+
+  superior quality compared to those codecs. Theora is the same for =
+video.</LI>
+  <LI class=3D"sml"><STRONG>Matroska (.mkv):</STRONG> an open-source =
+container=20
+  format that intends to provide more flexibility than the aging AVI =
+format. For=20
+  instance, multiple sound and subtitle tracks can be contained in the =
+same=20
+  file. Matroska is popular within certain circles like underground =
+releases of=20
+  Anime series and HD-DVD/BluRay rips, although there is no specific =
+reason why=20
+  it would be better for that type of content.</LI>
+  <LI class=3D"sml"><STRONG>Flash Video (.flv):</STRONG> like the name =
+says, it is=20
+  the container format used by the <A =
+href=3D"http://www.adobe.com/products/flashplayer/">Adobe=20
+  Flash</A> plug-in. When you view videos in YouTube and other =
+Flash-based video=20
+  websites, your browser actually downloads an .flv file in the =
+background and=20
+  feeds it to the Flash player. This format is gaining increasing =
+support by=20
+  other standalone players. The container format itself is an open =
+standard, but=20
+  some of the codecs contained inside the files are proprietary.</LI>
+  <LI class=3D"sml"><STRONG>WebM (.webm):</STRONG> this is actually a =
+restricted=20
+  variant of the Matroska container, only allowing the VP8 video and =
+Vorbis=20
+  audio codecs. The format is intended to become the standard for HTML5 =
+video.=20
+  However, at this time there is a battle between proponents of this =
+format=20
+  (Google amidst others) and proponents of H.264 (in an MPEG-4 =
+container).=20
+  Either one of these formats will need to emerge as the winner in order =
+for=20
+  HTML5 video to become a truly practical standard.</LI></UL>
+<H3><A name=3D"codecs">Codecs</A></H3>
+<P>Remember that a container file is nothing more than a wrapper around =
+a bunch=20
+of data streams. The structure of the data inside those streams depends =
+on which=20
+<EM>codec</EM> was used to encode it. Codec stands for =
+<EM>coder/decoder</EM>.=20
+Theoretically, one could just take raw video and dump it into a file. =
+This would=20
+make the file monstrously huge however, hence the need for encoding. The =
+same=20
+goes for audio, although uncompressed audio is still somewhat tractable =
+and was=20
+actually used in the early days (which is why those movies were very =
+short).=20
+</P>
+<P>The reason why people often confuse codecs with formats is that =
+traditionally=20
+codecs are linked with formats. The Sorenson codec used to be licensed=20
+exclusively to Apple, hence Sorenson was only to be found in MOV files. =
+The=20
+original DivX codec was a hacked Microsoft MPEG-4 codec used in the =
+first=20
+pirated AVI movies, so DivX is often confused with AVI. And with the =
+name=20
+correction of the non-standard AVI into DIVX, it is clear that a .divx =
+file is=20
+only intended to use the DivX codec. </P>
+<P>However, MOV supports a myriad of other codecs next to Sorenson, and =
+the same=20
+goes for AVI and DIVX. Technically spoken there's no reason why you =
+couldn't use=20
+a WMV stream inside an AVI or MOV file, or a Sorenson stream in a WMV =
+file. The=20
+only barriers against this are potential lack of support in the format =
+for=20
+advanced features of the codec, and <EM>legal</EM> barriers. MOV files =
+actually=20
+exist with DivX video streams inside them. Having an MP3 audio track for =
+a MOV=20
+has become quite common, even though the standard QuickTime software =
+does not=20
+give you the option to use this codec for audio. Even though the =
+original AVI=20
+specification didn't allow to use the DivX or MP3 codec, the amount of =
+AVI files=20
+with these codecs is now to be counted in the millions.<BR>The tendency =
+towards=20
+hard-linking a format with a (set of) codec(s) is both good and bad. The =
+good is=20
+that you immediately know what codec such a file uses, the bad is that =
+you're=20
+stuck with that codec. It is less confusing for the average user, but =
+more=20
+frustrating for the more professional users. That's why QuickTime is a =
+popular=20
+format for editing video: it allows any codec to be used. A single MOV =
+file can=20
+even contain multiple streams with different codecs! </P>
+<P>A list of popular <EM>video</EM> codecs and the formats they are/were =
+used=20
+in: </P>
+<UL>
+  <LI class=3D"sml"><STRONG>Cinepak:</STRONG> now utterly obsolete, but =
+in the=20
+  early days of internet video this was the most popular codec. It is a =
+standard=20
+  codec in both QuickTime and VfW. The codec worked by splitting up each =
+video=20
+  frame in a grid of small squares. If in the next frame a square was =
+almost=20
+  identical to the same square in the previous frame, it was omitted. =
+Otherwise=20
+  a new square was stored, which was compressed on its own. Compared to =
+raw=20
+  video, this gave a huge reduction in size.</LI>
+  <LI class=3D"sml"><STRONG>Motion-JPEG:</STRONG> this is an adaptation =
+for video=20
+  of the JPEG compression scheme (used for still photographs). Actually =
+MJPEG=20
+  just encodes each frame with a variation of JPEG that is optimized for =
+speed,=20
+  without trying to exploit relations between similar frames. The =
+advantage is=20
+  that each frame can be accessed without having to reconstruct previous =
+or=20
+  future frames, for this reason this codec is still used when =
+straightforward=20
+  editing is desirable, e.g. on portable cameras.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-1:</STRONG> this codec is actually a =
+group of=20
+  codecs, meant to be used in MPEG-1 media files. In the case of MPEG-1, =
+it is=20
+  justified to interchange the format and the codec, because they are =
+mostly=20
+  unseparable. This codec builds upon the same idea as Cinepak, but adds =
+the=20
+  concept of <EM>motion estimation</EM>. This means that each of the =
+tiny blocks=20
+  can now also move around between consecutive frames. So-called =
+P-frames can be=20
+  described, or <EM>predicted</EM>, by referring to parts of the =
+previous (or=20
+  same) frame at any position (in practice, the range of movement is =
+limited).=20
+  It is also possible to use both preceding and future frames for =
+prediction=20
+  (so-called B-frames, for =E2=80=98bidirectional=E2=80=99). This =
+enables an even huger=20
+  reduction in file size compared to Cinepak.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-2:</STRONG> technically, there is not =
+much=20
+  difference with MPEG-1, except for some small improvements. While =
+MPEG-1 was=20
+  mostly meant to be the digital equivalent of VHS video, MPEG-2 is =
+intended for=20
+  higher quality digital video, in casu DVD. The specification allows =
+larger=20
+  video resolutions and higher bitrates. This codec requires licensing =
+for=20
+  commercial applications.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-4:</STRONG> you may wonder =
+<CITE>=E2=80=9Cwhat happened=20
+  to MPEG-3?=E2=80=9D</CITE> Well, it never existed. The MPEG <A =
+href=3D"http://mpeg.chiariglione.org/">numbering=20
+  scheme</A> is a story on its own, for instance after MPEG-4 comes =
+MPEG-7.=20
+  Anyhow, MPEG-4 is not really a codec, but more like a specification =
+for a=20
+  group of codecs. This means that one can make multiple different =
+MPEG-4=20
+  compliant codecs. The nice thing is that if a codec is MPEG-4 =
+compliant, it=20
+  can in theory be played with any MPEG-4 compliant player. The MPEG-4 =
+standard=20
+  consists of multiple parts and Part 2 describes the first MPEG-4 video =
+codec,=20
+  which is therefore the one that is often simply called =
+<CITE>=E2=80=9Cthe MPEG-4=20
+  codec=E2=80=9D</CITE>. The basis is the same as MPEG-1, but with =
+advanced features=20
+  which allow another leap in compression performance. For instance, =
+instead of=20
+  simply linking image parts to different positions in previous frames, =
+small=20
+  differences between those parts can be modeled and encoded as well if =
+not too=20
+  large. This allows much more efficient modeling of colour/intensity =
+changes or=20
+  minor differences between frames. The standard also allows predicting =
+a frame=20
+  from multiple reference frames, and multiple consecutive B-frames =
+instead of=20
+  only one. Microsoft was one of the first to make a so-called MPEG-4 =
+codec, but=20
+  as usual they managed to make it <A =
+href=3D"http://www.moviecodec.com/solutions/mpg4-mp42-mp43-microsoft-mpeg=
+-4-versions-1-2-and-3-5098/">non-standard</A>=20
+  in some way.</LI>
+  <LI class=3D"sml"><STRONG>H.264:</STRONG> also known as AVC (Advanced =
+Video=20
+  Coding), this codec was developed by the same groups as MPEG-4 and =
+therefore=20
+  has been included in the standard (more specifically, it is part 10 of =
+the=20
+  standard). It has been designed to give excellent performance even =
+under low=20
+  bitrate situations, and it achieves this goal. Some of the features =
+that=20
+  enable this are an in-loop deblocking filter and a much larger =
+flexibility in=20
+  what data can be used to predict other data. At the time of this =
+writing it is=20
+  one of the best performing codecs. Unfortunately this performance =
+comes at the=20
+  price of increased processing power requirements. Also, even though =
+this is a=20
+  standardized codec, licensing is required for commercial applications. =
+The=20
+  popularity of the open-source library called <A =
+href=3D"http://www.videolan.org/developers/x264.html">x264</A>=20
+  has caused many people to incorrectly think there is an =E2=80=9Cx264 =
+codec=E2=80=9D, while=20
+  x264 is just an <EM>implementation</EM> of the H.264 codec.</LI>
+  <LI class=3D"sml"><STRONG>Intel Indeo Video:</STRONG> this is a =
+proprietary=20
+  codec from Intel. It is a bit like a predecessor of Sorenson, with the =
+
+  difference that it isn't licensed exclusively to a single format: =
+Intel made=20
+  the codec available for both VfW and QuickTime. Unfortunately, the =
+QuickTime=20
+  codecs were not ported to the new OS X version of QuickTime. On the =
+technical=20
+  side, I cannot tell how Indeo works because it is proprietary. I =
+assume it has=20
+  similarities with MPEG-1. There were multiple versions with increasing =
+
+  performance.</LI>
+  <LI class=3D"sml"><STRONG>Sorenson Video:</STRONG> this is the =
+infamous codec=20
+  I've been talking about. It was originally licensed exclusively to =
+Apple, and=20
+  later on also to Adobe, so you'll only find it in QuickTime and Flash =
+movies.=20
+  The upside of this codec is that it had quite good performance. There =
+were=20
+  several versions, with each version improving upon the previous. =
+During a long=20
+  time, this codec was used for all the movie trailers available on the =
+Apple=20
+  site. (Luckily, these trailers now use the standard MPEG-4 codec or =
+H.264.)=20
+  Again, due to it being proprietary, I can't tell you anything about =
+how it=20
+  works. Judging from the compression quality and artefacts on =
+low-bitrate=20
+  video, it seems to be related to MPEG-1, with later versions moving =
+towards=20
+  MPEG-4.</LI>
+  <LI class=3D"sml"><STRONG>WMV:</STRONG> like the name says, this is =
+the codec=20
+  which accompanies the Windows Media format. It is as proprietary as it =
+can be,=20
+  so don't ask me how it works. Because it came shortly after =
+Microsoft's=20
+  non-standard MPEG-4, I assume they started from the same basis. There =
+are=20
+  several versions with slight improvements in each update. However, the =
+main=20
+  reason why MS is pushing this format, is that they have absolute =
+control over=20
+  it. It features DRM, which officially means <EM>Digital Rights=20
+  Management</EM>, but from a user's point of view it might as well mean =
+
+  <EM>Digital Restrictions Management.</EM></LI>
+  <LI class=3D"sml"><STRONG>DivX:</STRONG> the first version of DivX =
+(DivX 3)=20
+  actually was nothing more than a hacked version of the MS MPEG-4 =
+codec. This=20
+  codec started the proliferation of pirated movies, because most movies =
+could=20
+  now fit onto one CDR with reasonable image quality. The pirates =
+hijacked the=20
+  AVI format for this purpose. For audio, another hacked codec was used: =
+either=20
+  MP3 or WMA. Some of the early pirated AVI movies even used WMV for =
+video. With=20
+  version 4, the developers of DivX re-wrote the codec from scratch to =
+make it=20
+  legal and improve it. More versions with better performance followed, =
+and from=20
+  version 6 on, DivX decided to rename the =E2=80=98pirated=E2=80=99 AVI =
+format to DIVX.</LI>
+  <LI class=3D"sml"><STRONG>XviD:</STRONG> yes, it is simply DivX =
+spelled=20
+  backwards. This codec was an attempt by the open source community to =
+create a=20
+  legal clone of the DivX 3 codec. It was developed independently from =
+the DivX=20
+  4 codec, but since both codecs are MPEG-4 compliant, the resulting =
+video=20
+  streams are mostly compatible. After a few versions, the XviD codec =
+equalled=20
+  or even surpassed the quality of the DivX codec.</LI>
+  <LI class=3D"sml"><STRONG>VC-1:</STRONG> a codec primarily developed =
+by=20
+  Microsoft and originally tightly tied to WMV, but it has become more =
+open and=20
+  is one of the codecs supported by BluRay. It is often considered an=20
+  alternative to H.264, it has a similar licensing scheme and offers =
+comparable=20
+  performance, with an advantage in low-latency =
+situations.</LI></UL><!--HTMLTW includeFile=3D"mediaformats2.emb"-->
+<P> A list of popular <EM>audio</EM> codecs and the formats they =
+are/were used=20
+in: </P>
+<UL>
+  <LI class=3D"sml"><STRONG>PCM (Pulse-code modulation):</STRONG> this =
+is not=20
+  really worthy of the name =E2=80=98codec=E2=80=99, because it is in =
+fact uncompressed audio.=20
+  It was the only option in the early days, and the only way to save =
+space was=20
+  to use lower sampling rates or fewer bits per sample, resulting in a =
+dull or=20
+  noisy sound.</LI>
+  <LI class=3D"sml"><STRONG>A-law and Mu-law:</STRONG> these are not =
+really codecs=20
+  either, but alternative ways to sample audio than the regular volume =
+intervals=20
+  used by PCM. A logarithmic scale is used, which effectively gives more =
+dynamic=20
+  range. In PCM, more silent sounds have more noise, while with A- or =
+Mu-law the=20
+  noise is more equally distributed over a large range of volumes.</LI>
+  <LI class=3D"sml"><STRONG>IMA/ADPCM:</STRONG> this was one of the =
+first codecs=20
+  that delivered a 1:4 compression ratio for 16-bit audio, with less =
+quality=20
+  loss than simple downsampling. It was used both in QuickTime and VfW, =
+called=20
+  IMA in the former and ADPCM in the latter. The codec was still =
+primitive,=20
+  though, and an audible amount of noise was introduced in the =
+sound.</LI>
+  <LI class=3D"sml"><STRONG>QDesign Music and Qualcomm =
+PureVoice:</STRONG> these=20
+  are two proprietary QuickTime codecs which were quite popular in the =
+days they=20
+  were introduced. The QDesign codec has similarities to MP3 but is more =
+
+  primitive, and the Qualcomm codec is designed to compress speech.</LI>
+  <LI class=3D"sml"><STRONG>MPEG-1 audio (MP1, MP2, MP3):</STRONG> more =
+correctly,=20
+  the three flavours of this codec are called <EM>MPEG-1 Layer I, =
+II</EM> and=20
+  <EM>III</EM>. Complexity and low-bitrate performance increases with =
+increasing=20
+  layer number. Layer I is a simplified version of II, Layer III is =
+quite=20
+  different.<BR>The Layer III codec is by far the most popular (not just =
+of=20
+  these three, of all codecs) and is more commonly known as =
+<EM>MP3</EM>. Like=20
+  DivX/MPEG-4, this popularity finds its roots in piracy: MP3 made =
+widespread=20
+  copying of music over the internet possible. Strictly spoken, anyone =
+who makes=20
+  an MP3 encoder needs to pay a license fee to the <A =
+href=3D"http://www.iis.fraunhofer.de/">Fraunhofer=20
+  institute</A>. Worse, using MP3 for a commercial streaming application =
+also=20
+  requires a license.<BR>These codecs work so well, because they use a =
+so-called=20
+  <EM>psychoacoustic model</EM>, a model of the human auditory system, =
+to throw=20
+  away inaudible information. The compression ratio can be chosen; a =
+popular=20
+  bitrate is 128kbps which results in a ratio of 1:11. It has long been =
+a=20
+  <EM>myth</EM> that it results in sound quality indistinguishable from =
+a CD,=20
+  and many people still believe in this myth. The truth is that on any =
+decent=20
+  sound system and with well-functioning ears, 128kbps MP3 sounds like =
+manure. A=20
+  bitrate of 192kbps or higher is more realistic for near-CD quality. =
+(In case=20
+  you were wondering: transcoding a 128kbps file into 192 kbps <EM>will =
+not</EM>=20
+  improve its quality, on the contrary.) Moreover, there is a =
+complication: the=20
+  standard only describes the MP3 <EM>decoding</EM> in detail, not the=20
+  <EM>encoding</EM>. This means that there are infinite ways to =
+implement an MP3=20
+  encoder, which is why quality between MP3 files of the same bitrate =
+can=20
+  greatly differ. There are some very good MP3 encoders out there, like =
+<A href=3D"http://lame.sourceforge.net/">LAME</A>,=20
+  and also some truly crappy ones. Mind that despite its higher =
+complexity and=20
+  better performance at low bitrates, MP3 has some inherent limitations =
+that=20
+  prevent it from accurately reproducing certain sounds even at its =
+highest=20
+  possible bitrate. Starting at 256kbps, Layer II actually beats MP3 in =
+this=20
+  regard.<BR>MP3 is one of the rare cases where it is common to simply =
+store the=20
+  encoded data stream as-is in a file, without wrapping it in a =
+container=20
+  format. The typical =E2=80=98MP3 file=E2=80=99 will at best contain a =
+few headers in the de=20
+  facto standard ID3 format to indicate artist, title, etc, but the =
+stream=20
+  itself contains enough information to be readily decoded.</LI>
+  <LI class=3D"sml"><STRONG>AC3:</STRONG> this is one of the codecs used =
+for audio=20
+  on DVD and BluRay. It is designed to support multiple channels, which =
+makes it=20
+  suitable to encode surround sound. It is related to MP3 because it =
+also uses=20
+  frequency information to discard inaudible information, but is more =
+primitive.=20
+  It is typically used at bitrates of 384 or 448kbit on DVD, and 640kbit =
+on=20
+  BluRay.</LI>
+  <LI class=3D"sml"><STRONG>DTS:</STRONG> another codec that is =
+specifically=20
+  designed for surround sound on DVDs and BluRays. It uses a less =
+complicated=20
+  compression scheme than AC3 and therefore requires a much higher =
+bitrate:=20
+  about 1.5Mbit (similar to uncompressed stereo CD audio). At this =
+bitrate DTS=20
+  is generally regarded as being indistinguishable from the uncompressed =
+source.=20
+  It is possible to encode 5.1 DTS at 768kbps but in my experience this =
+results=20
+  in worse quality than 384kbps AC3.</LI>
+  <LI class=3D"sml"><STRONG>AAC:</STRONG> this is intended to be the =
+successor to=20
+  both MP3 and AC3 and is the standard audio codec for MPEG-4 media (to =
+be=20
+  precise, it belongs with Part 3 of the MPEG-4 standard). Quality is =
+slightly=20
+  better than MP3. It is also the codec used in the iTunes music store,=20
+  initially augmented with a DRM scheme until Apple decided to switch =
+the entire=20
+  store to the DRM-free =E2=80=9CiTunes Plus=E2=80=9D in 2009. Although =
+a license is required to=20
+  manufacture an AAC codec, unlike MP3 no license is required to use the =
+codec=20
+  for streaming of any kind.</LI>
+  <LI class=3D"sml"><STRONG>WMA:</STRONG> the audio codec of Windows =
+Media.=20
+  Judging from sound quality, it is very strongly related to MP3, =
+although newer=20
+  versions are slightly better. How much better is to be guessed because =
+it is=20
+  proprietary. This format is often used in other music stores, and of =
+course=20
+  will use DRM in such cases.</LI>
+  <LI class=3D"sml"><STRONG>Ogg Vorbis:</STRONG> this is an open source=20
+  alternative to MP3, developed by <A =
+href=3D"http://xiph.org/">Xiph</A>. It is=20
+  designed to be completely patent- and royalty-free (although the =
+companies=20
+  behind MP3 and AAC want you to believe otherwise). Moreover, the =
+performance=20
+  is really good, from low to high bitrates. This codec focuses on =
+quality-based=20
+  encoding, which means the bitrate is automatically adjusted to ensure =
+constant=20
+  quality. For most applications which do not involve real-time =
+streaming, this=20
+  makes a lot more sense than the fixed-bitrate that is the default for =
+most=20
+  other codecs. Of course this codec also supports a fixed-bitrate =
+mode.</LI></UL>
+<H2><A name=3D"players">Media formats vs. players</A></H2>
+<P>The second most common mistake is to confuse a media format with a =
+media=20
+player. Traditionally, a media format was only playable in its =
+accompanying=20
+player, like the QuickTime Player for MOV, Windows Media Player for AVI =
+and WMV,=20
+or RealPlayer for RA and RM. This once made sense, because in the =
+beginning=20
+there was no need for other players: there was only QT on Mac OS, and =
+AVI on=20
+Windows. However, there is no technical reason why today a certain =
+player=20
+couldn't open and play a different format than its native format. Again, =
+the=20
+only barriers against this are legal. But, many of these barriers are =
+starting=20
+to break due to the proliferation of media formats on the internet. For=20
+instance, after a few versions QuickTime Player could also play standard =
+AVI=20
+files. And with the correct plug-in, the Mac OS version can even play =
+WMV files.=20
+Most players can play MPG files and virtually any player can play WAV =
+files. <A=20
+href=3D"http://www.mplayerhq.hu/">MPlayer</A> and <A =
+href=3D"http://www.videolan.org/">VLC</A>=20
+are open-source players which intend to support as many formats as =
+possible.=20
+They can play MOV, AVI, WMV, RM and many other formats, and support a =
+large=20
+number of codecs. </P>
+<P>There are only two obstacles that can prevent a player from playing a =
+certain=20
+file: the codecs or DRM. Codecs are the reason why one AVI or MOV file =
+plays=20
+fine in your copy of mplayer while other files with the same extensions =
+don't:=20
+if your player doesn't have the codec used in the file, it won't play. =
+As you=20
+know, WMV is a proprietary codec, which is why playing WMV files in =
+anything=20
+else than Windows Media Player is often a pain in the ass. Detailed=20
+specifications required to implement your own complete WMV codec are not =
+
+publicly available. Any players different from WMP that can play WMV =
+either pay=20
+a license fee to Microsoft, are based on reverse engineering, or (ab)use =
+copied=20
+Windows Media software libraries. This means that the variants of WMV =
+that have=20
+not been reverse engineered yet, cannot be played on a different =
+platform than=20
+the ones for which WM libraries are available.<BR>The same goes for =
+QuickTime's=20
+Sorenson codec. The most recent variants of it have not been reverse =
+engineered=20
+yet, so to play them you either need to use QuickTime or hack into the =
+QuickTime=20
+libraries.<BR>DRM (Digital Rights or Restrictions Management, depending =
+on=20
+whether you're a lawyer or user) is the other reason why you can only =
+play=20
+certain files in a certain player. As far as I know, Windows Media is =
+the only=20
+media format that is engineered for DRM. The creator of a WMV or WMA =
+file can=20
+decide to only let the user play a movie on a single PC after having =
+paid for a=20
+license code. Because WM DRM is only implemented in Windows, it's =
+impossible to=20
+play such files on any other platform. The AAC audio files from the =
+iTunes music=20
+store also had a layer of DRM added to them until the introduction of =
+iTunes=20
+Plus, but the restrictions were not that strict. It is clear that from a =
+user's=20
+point of view, DRM is totally undesirable. </P>
+<H2><A name=3D"hated">Why are certain formats hated by certain =
+people?</A></H2>
+<H3>QuickTime</H3>
+<P id=3D"fnRef1b">On the Windows platform, and also to a lesser degree =
+on Linux,=20
+<EM>QuickTime</EM> has become rather unpopular, due to different =
+reasons. Of=20
+course, one of the reasons is that Windows Media is bundled with =
+Windows, and=20
+QuickTime isn't. That's not something Apple can do much about. However, =
+Apple=20
+itself have also been making a few stupid mistakes. First of all, =
+QuickTime on=20
+Windows has become notorious for bad stability. Of course it would have =
+been=20
+easy for Microsoft to make QuickTime crash on random occasions<SUP><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fn1">(1b)</A></=
+SUP>.=20
+But even if we put all paranoia aside and look at how stable current =
+versions=20
+are, there are still some major issues.<BR>Since version 3 of QuickTime, =
+there=20
+are two variants: standard QuickTime and QuickTime Pro. The first only =
+allows to=20
+play movies, and you need to pay for the latter. However, Apple was =
+stupid=20
+enough to include a nagging screen in the standard version which =
+<EM>always</EM>=20
+popped up when opening the QT Player, until you upgraded to QuickTime =
+Pro.=20
+That's one hell of a way to annoy people! Luckily the pop-ups were =
+removed in=20
+newer versions, but they are still burned into peoples' collective =
+memory.=20
+Worse, however, is that for a very long time <EM>full screen =
+playback</EM> was=20
+restricted to the Pro version only. Whoever came up with that idea =
+should be=20
+<EM>fired</EM> for obviously having no clue about how annoying the lack =
+of full=20
+screen is. All other free players have it! Luckily, someone saw the =
+light and=20
+since version 7.2, full screen is again a feature of the standard =
+QuickTime=20
+player. Still lacking is a full screen option in the browser plug-in, so =
+if the=20
+person who was behind restoring full screen in QT 7.2 reads this: =
+there's some=20
+work left to do.<BR>The grudge of Linux users against QuickTime stems =
+=E2=80=94 next to=20
+the fact that there has never been an official QuickTime for Linux =
+=E2=80=94 mostly from=20
+the proprietary codecs like Sorenson and the QDesign Music codec. These =
+were=20
+used in many movies created with QT 3 up to QT 6. Actually that's also =
+the only=20
+valid argument against QuickTime, because movies with non-proprietary =
+codecs can=20
+be played fine. The specification of the QuickTime format itself can be =
+found on=20
+the web, and there are open source projects with libraries for handling =
+the=20
+format. Plus, the use of proprietary codecs is decreasing in favour of =
+the more=20
+standard MPEG-4 and AAC. </P>
+<H3>Windows Media</H3>
+<P id=3D"fnRef1c">Of course, on the Mac and Linux platforms the roles =
+are=20
+reversed, and the <EM>WMV</EM> format is pretty unpopular there, to say =
+the=20
+least. Despite what the average Windows user may think, WMV is a lot =
+worse than=20
+QuickTime once it leaves its native environment. With all essential=20
+documentation publicly available, one can write a working QuickTime =
+player from=20
+scratch. Of course it will only be able to play movies with =
+non-proprietary=20
+codecs, but it will be able to play many movies. Writing a WMV player =
+from=20
+scratch won't even get you anywhere, because <STRONG>both the format and =
+all=20
+codecs</STRONG> are propietary. The result is that for a very long time, =
+there=20
+hasn't been any decent way to play WMV movies in Mac OS or Linux. When =
+Microsoft=20
+finally released the first Windows Media Player for Mac OS it was so bad =
+that it=20
+almost seemed intentional<SUP><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fn1">(1c)</A></=
+SUP>.=20
+Things got a lot better when <A =
+href=3D"http://www.flip4mac.com/">Flip4Mac</A>=20
+introduced a plug-in that enables QuickTime to import, play and even =
+convert WMV=20
+files as if they're QuickTime movies. However, movies with =
+=E2=80=9Cadvanced=E2=80=9D (read:=20
+annoying) features like DRM are still impossible to play at the time of =
+this=20
+writing.<BR>In Linux running on an x86 machine, it is possible to tap =
+into the=20
+Windows libraries to decode WMV. So on that platform it isn't too bad, =
+legal=20
+issues put aside. However, with the growing popularity of 64-bit =
+machines and=20
+the lack of a 64-bit WMV library, it again became apparent that this was =
+just a=20
+lucky coincidence. On those machines only the variants of WMV that have =
+been=20
+reverse engineered could be played until the advent of a 64-bit WMV=20
+implementation. Of course playing files with DRM is =E2=80=94 and =
+probably will remain =E2=80=94=20
+impossible on any Linux machine until someone hacks it. </P>
+<H2><A name=3D"webmovies">Which format/codec should I use for my web=20
+movies?</A></H2>
+<P>This is a rather nasty question. You will have to live with the fact =
+that=20
+there is almost no single format, container-wise and codec-wise, that =
+will fit=20
+all your needs and will please your entire audience at the same time. My =
+
+recommendation is to provide <EM>at least two</EM> formats for every =
+movie,=20
+chosen such that people who don't like or are unable to play the first =
+format=20
+can use the second one. </P>
+<P>The popularity of <A href=3D"http://www.youtube.com/">YouTube</A>, <A =
+href=3D"http://video.google.com/">Google=20
+Video</A> and related sites is partly due to the ease of playing =
+Flash-based=20
+videos <EM>if</EM> a working Flash browser plug-in is installed. True, =
+the=20
+performance of Flash-based video is not that great on older computers, =
+probably=20
+due to the overhead of routing the video through Flash. But still I =
+believe that=20
+at this time, it's a good option if you want to include embedded video =
+content=20
+on your site. </P>
+<P>Nevertheless, there are platforms where Flash is not available, or a =
+major=20
+pain to get working. Moreover, it is often hard or impossible to =
+download the=20
+FLV file to play it in an external media player or on another machine. =
+So you=20
+should provide at least one alternative to cater for the case where =
+Flash is=20
+unusable. As you have read in the previous sections, any hatred against=20
+QuickTime is mostly unfunded, provided that you don't use any =
+proprietary=20
+codecs. My advice: never, ever, use any of those codecs again. The =
+MPEG-4 and=20
+H264 video and AAC audio codecs are better, and are ISO standards. A =
+QuickTime=20
+file with these codecs, be it a .MOV or .MP4, will play fine in Linux, =
+although=20
+the format's history will still make some hardcore users whine. =
+Especially H.264=20
+performs very well in low-bitrate situations, but it is quite heavy on =
+the=20
+processor. So, a downloadable QuickTime or (better) MP4 file is a good=20
+option.<BR>Considering the fact that Windows still has its rather =
+undeserved=20
+huge market share and WMV is pre-installed on it, a download to a WMV =
+file is=20
+also acceptable. If you have enough space, providing both a MOV/MP4 and =
+WMV=20
+download is a sure way to enable almost anyone to view your videos. Many =
+Linux=20
+machines are able to play WMV, so those whiners that don't like QT/MP4 =
+can=20
+probably use the WMV, even though this format is IMHO the farthest away =
+from=20
+=E2=80=98Linux ideals=E2=80=99. </P>
+<P>Theoretically, you could also use the AVI format with the DivX or =
+XviD codec=20
+and mp3 for audio. Practically, this will require many users to install =
+these=20
+codecs, because although they both are MPEG-4 compliant, their use =
+within an AVI=20
+file is not compliant with the official VfW standard. Using this format =
+for=20
+movies that are supposed to be viewed by computer illiterates is a =
+no-no. But if=20
+your users are known to be =E2=80=98tech-savvy=E2=80=99 and you require =
+high quality, it is a=20
+good choice. </P>
+<P>As for codecs, if you use WMV then there is nothing to choose. You =
+might have=20
+the option to choose between versions of the codec but I doubt it. If =
+you can,=20
+<EM>not</EM> choosing the latest version will <EM>greatly</EM> increase =
+the=20
+chance that people will be able to view the movie. Enabling any kind of =
+DRM will=20
+greatly <EM>decrease</EM> this chance.<BR>For QuickTime, I'll repeat: =
+never,=20
+ever use any of the proprietary codecs! Use MPEG-4 or H.264 for video, =
+and MP3=20
+or AAC for audio. H.264 is really good but is also processor hungry, so =
+for=20
+movies that are supposed to be viewed by anyone including people with =
+older=20
+computers, MPEG-4 may be a better choice. Of course, for certain movies =
+like=20
+simple line art animations, codecs like the good old =
+=E2=80=98Animation=E2=80=99 might yield=20
+better quality for the same file size. Other codecs may be more suited =
+for other=20
+situations, but only use them if you really know what you're doing. =
+Also, you=20
+should =E2=80=98flatten=E2=80=99 MOV files intended for end-users, =
+meaning that their essential=20
+content should consist of a single video and audio stream. The advanced =
+features=20
+of QT are nice during development, but many non-QuickTime players are =
+unable to=20
+render them. </P>
+<P>The upcoming <EM>HTML5</EM> standard includes a <EM>video</EM> tag =
+and the=20
+goal is that this tag is linked to a fixed container format with fixed =
+codecs,=20
+such that any web browser that is HTML5 compliant is guaranteed to be =
+able to=20
+play any video embedded with the video tag in any HTML5 website. =
+Therefore this=20
+looks very promising, but at this time HTML5 video is still problematic =
+because=20
+no consensus has yet been achieved over the container format, and HTML5 =
+is not=20
+yet supported everywhere. There are two contenders: H.264 (in an MPEG-4=20
+container) and WebM, and it is unclear which of the two formats will =
+eventually=20
+emerge as the single true HTML5 video standard. Of course, you could =
+simply=20
+provide your videos in both formats if processing and storage are not an =
+issue.=20
+A solution that has a very good chance to be playable pretty much =
+everywhere, is=20
+to use HTML5 video with both formats, plus a fallback to a Flash video =
+player in=20
+case HTML5 is not fully supported. This player can use the same H.264 =
+file as=20
+was prepared for HTML5 video, or a third custom FLV file. =
+</P><!--/HTMLTW-->=20
+<HR class=3D"footnote">
+
+<P class=3D"footnote" id=3D"fn1"><A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fnRef1a">(1a</A=
+>,=20
+<A =
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fnRef1b">1b</A>=
+, <A=20
+href=3D"http://www.dr-lex.be/info-stuff/mediaformats.html#fnRef1c">1c)</A=
+>: If you=20
+want to know more about the entire complicated media format war between=20
+Microsoft and its competitors, <A =
+href=3D"http://www.roughlydrafted.com/RD/RDM.Tech.Q1.07/5F0C866C-6DDF-4A9=
+A-9515-531B0CA0C29C.html">this=20
+article</A> explains it in detail. </P>
+<DIV class=3D"copy">=C2=A92006/9-2013/7 Alexander Thomas =
+</DIV></DIV><!--article-->=20
+<SCRIPT src=3D"http://www.dr-lex.be/bookmarks.js" =
+type=3D"text/javascript"></SCRIPT>
+ <!--HTMLTW includeFile=3D"infoAds.emb"-->
+<DIV class=3D"escWrapDeco" style=3D"margin-top: 2em;">=20
+<SCRIPT type=3D"text/javascript"><!--=0A=
+google_ad_client =3D "ca-pub-4744639122259360";=0A=
+if( screen.width < 728 ) {=0A=
+/* InfoAdsMobile */=0A=
+google_ad_slot =3D "1714996274";=0A=
+google_ad_width =3D 320;=0A=
+google_ad_height =3D 50;=0A=
+} else {=0A=
+/* InfoAds */=0A=
+google_ad_slot =3D "5605158675";=0A=
+google_ad_width =3D 728;=0A=
+google_ad_height =3D 90;=0A=
+}=0A=
+//-->=0A=
+</SCRIPT>
+=20
+<SCRIPT src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js" =
+type=3D"text/javascript"></SCRIPT>
+ </DIV>
+<SCRIPT src=3D"http://www.dr-lex.be/stupidcookielaw.js" =
+type=3D"text/javascript"></SCRIPT>
+<!--/HTMLTW-->=20
+<DIV id=3D"footMargin"></DIV></DIV><!--wrapper-->=20
+<DIV id=3D"footer">
+<DIV class=3D"navlevel2"><!--HTMLTW includeFile=3D"nav-info.emb"-->
+<DIV class=3D"navbox0"><A class=3D"nav0" =
+href=3D"http://www.dr-lex.be/index.html">
+<DIV class=3D"navlogo">&nbsp;</DIV>Dr. Lex' Site</A>&nbsp;</DIV>
+<DIV class=3D"navbox1"><A class=3D"nav1" =
+href=3D"http://www.dr-lex.be/info-stuff/index.html">Educative</A>&nbsp;</=
+DIV><!--/HTMLTW-->
+<DIV class=3D"navbox2">About Media =
+Formats&nbsp;</DIV></DIV></DIV><!--HTMLTW includeFile=3D"../ga.emb"-->
+<SCRIPT>=0A=
+  =
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=3Dr;i[r]=3Di[r]||func=
+tion(){=0A=
+  (i[r].q=3Di[r].q||[]).push(arguments)},i[r].l=3D1*new =
+Date();a=3Ds.createElement(o),=0A=
+  =
+m=3Ds.getElementsByTagName(o)[0];a.async=3D1;a.src=3Dg;m.parentNode.inser=
+tBefore(a,m)=0A=
+  =
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga=
+');=0A=
+=0A=
+  ga('create', 'UA-299402-1', 'auto');=0A=
+  ga('send', 'pageview');=0A=
+=0A=
+</SCRIPT>
+<!--/HTMLTW--> </BODY></HTML>
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dr-lex.be/info-stuff/infoimages/mediaformats_example.png
+
+iVBORw0KGgoAAAANSUhEUgAAAM4AAAEICAMAAAAgBzvrAAACTFBMVEX///+ZZ1YAAP8AAACKiv9m
+Zv/QqI5eXV1URDRSMCFmZmY7PDtBQUCzkXCDhngaGRRoaVkpKSJ2eWy3t/94XUeumYfGjn4vOlC6
+o457gHREEQsyIxc3RGA3N/9tcWTi4v9eV0lHU2yMk4eUloo9NiyepZimeIEMGCkSBQLGw9ZhYl3F
+usdud34REQ7Yv6RTTD9XZGF7hn7j2uoZITRseHA9Kh+AaVuETkKLjYFsQDb/AADT1PupfmOLmJKE
+in/v7/+VmKXBfG+2jJ3qz9ZNTkzk9fsjJ0FLWFW8v9CpqbhCPzX07PLUwc3UzdednZOntaq0qrWg
+jXguLiydoasPExlBSVUoMT4EChXAnnwpDgiAjoqruLyUoJIMCwYjISdWVlUgHx1dXHCXemHm5e+J
+iprLz+LCrpsXCRmdio/04OBrbGz29v+RlZvS4OajrZ+yx7Xy/v+0s8OhraiHAQD7/fve4/DIz8Gq
+narZ3dzu5+wyMjD+9//5/v/6+v/+/f79/fvn6/PMt6b49/bl4eLc1ePt+/T9/v7X2Nfo4Orv7OXB
+ycXIzNP//ez9+Pn38fivvMXBrcCNfnnf39+1tbXCwsLq6ura2trS0tKioqLV1dWenp7GxsaZmZnb
+29usrKzn5+fv7+/6+vrOzs7y8vKwsLDh4eHl5eX7+/vz8/P09PTr6+u5ubmTk5Pt7e2+vr7j4+P9
+/f35+fnKysqFhYXk5OSPj4/29vampqbX19f4+Ph4eHjd3d2pqanY2NiAgICLi4pwcHDa3NrY2df8
+/PxrIKBBAAAsLklEQVR4XszYZ2/bOhiGYf//jxzae2957pGk548d6jVjVlJrOKHc9gGKAv3SXrhJ
+KuhssPlsls7++wO7/W3z2cs2T9PFYrvN8zzLM7bwJctgOWx7OPiLdJ6+AJWm/mGbZ55XU0rdbskk
+W7vDUVhR1HXthZ1p4U8OmqeLQ557dUHdpG1Rt9NTQ08vZmvbFpCUJgxUCNDEHn+xzUOPJm2MkH1S
+FOVy0WH7/efvYvCnD6f+YkF/uq7YaO1SJsq2Bz+dsNB87h/yrC4SZNtKtx8/LoMJzK//ycFoy8+Z
+bIQ0TVPCMI6cKMJlYwa6HSeUgbK8O3GTcVKmCWu6RhcdAF/gjAlCASMg4Qy2807TDDZt5+CGMBFK
+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
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dr-lex.be/info-stuff/infoimages/mediaformats_structure.png
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAADACAMAAAD7uJuVAAAAwFBMVEUAAQAICwcOEA0ZGxknKSc0
+NjNbdP//YF5//n/l4N62uLW9v7zDxcLIysfP0M3W1NjU1tLb2Nyqr7HW293h29rg3eLc39uzuLrj
+4eXk5uPo7fDy7Ovv9Pf//P/q7Omgop+jqKvY2temqKVrcHKytLF6fXxwcm/f4d67wcPi5OGCh4na
+1NOMjouVl5TS0NTy9PD28/j58/L2+PX/+vn5/PicnptmaGasrqtcWFeDhYLb4ONgXlz9//xOUE34
+/v9CREFizm9QAAASxklEQVR4XqxYx3IcyQ7ktdp6b8Z7b2ml/f+/epmoas0ud0KhF7Eo3wcmOpFA
+9fDlS9v1v7Kv/9Ne2varvV5PsLquC/QC87Ppeesn2rE+Hk+n9vrVAqClYYeJMw/9kBnYcnyR4/nQ
+lUWRZWE4GgVBYKZwxB2n8FsL+hbgwAkP01GxKrvqcDxerz/bP2eA9J+bqgJ0GAI3ZDNTIDsv9B7m
+snF1HNd1l45j57DpNBqOo9z2wlXVNc3xTADjxFNf2rbfvDAAh1plgOTLiQPoBp3wGD4bkAGN4Sw9
+d790lxi5bVvT1ygajweD220wzJ0wq7vm3P4UELZnEdDYsnnBfKzL1AviOB7F8CAmcIxG+ATohgL6
+4C99F833XXfvOuiOUGBN8ygaDoe73W5geUFZn87nK1AeGiCeGQ8NyOYF+m+qVegg0rG0kBsMBpZU
+0IWQJMB834MDMH+5Z3P2CIJDD15fx8PhYLDbgoSgqI7NNx3Qjfa5Bq7toQu9PEgJGYoHeoOFNCRC
+gQ4DpyXen41m3LAtCxSMB8PbbbfdRbmnqlNzNi/8Ow2QgfZ6rsvYiYLMvDdgAY+Gc9JT4KED1dCv
+Pdg7bLQ8FyWMh4Phbru9TW1vBSkiHf+MgWNTJvmrl5FzTQCXGFMcJKM+CL/EIATQCaoAHAgFEAI5
+EAoQBXDQHZCOBvYhgecMnMpNPvRTMC7UxzEmIUB2kpEcdEDgPU3BUtPguPt8n9u5CHEHIW53r3m+
+KboTdPBNBk8ZaM9V4Vk3bxWPsmxEAsCFFoJQkQSJlAfim4QkuhmOEECz8ukYFICB7WA6zYOSHlyh
+90cMnjLwdTnUhQcGspg2YmeLtRQhQilLMj04EAqI7ztUgr1fShCGoGALe7UjeFA38OAP7oJLpfzp
+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
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dr-lex.be/lexStyles.css
+
+html {
+	height: 100%;
+}
+body {
+	margin: 0px; height: 100%; max-height: 100%;
+}
+body.topic {
+	background: url("imags/lex_bkg_logo_blue.gif") rgb(199, 208, 240); =
+color: rgb(0, 0, 0);
+}
+body.software {
+	background: url("imags/bkg_software.png") repeat-y rgb(255, 255, 255);
+}
+body.hardware {
+	background: url("imags/bkg_hardware.jpg") repeat-y rgb(255, 255, 255);
+}
+body.edu {
+	background: url("imags/bkg_edu.jpg") repeat-y rgb(255, 255, 255);
+}
+body.weird {
+	background: url("imags/bkg_weird.jpg") rgb(0, 0, 34); color: rgb(255, =
+255, 255);
+}
+body.guest {
+	background: url("imags/bkg_guest.jpg") rgb(234, 244, 250);
+}
+div#header {
+	left: 0px; top: 0px; width: 100%; height: 32px !important; line-height: =
+32px !important; overflow: hidden; font-family: =
+Helvetica,Arial,Swiss,sans-serif; font-size: 18px; font-weight: 700; =
+border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); =
+border-top-width: 1px; border-bottom-width: 2px; border-top-style: =
+solid; border-bottom-style: solid; display: block; white-space: nowrap; =
+position: fixed; z-index: 2;
+}
+div#wrapPlain {
+	margin: 0px 1em -35px; height: auto !important; min-height: 100%;
+}
+div#wrapDeco {
+	margin: 0px 80px -35px; height: auto !important; min-height: 100%;
+}
+div.escWrapDeco {
+	margin: 0px -80px; text-align: center;
+}
+div.escWrapPlain {
+	margin: 0px -1em; text-align: center;
+}
+div#headMargin {
+	height: 34px;
+}
+div#footMargin {
+	height: 34px; margin-top: 2em;
+}
+div#footer {
+	height: 32px; line-height: 32px; font-family: =
+Helvetica,Arial,Swiss,sans-serif; font-size: 18px; font-weight: 700; =
+border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); =
+border-top-width: 2px; border-bottom-width: 1px; border-top-style: =
+solid; border-bottom-style: solid; position: relative; z-index: 2;
+}
+:target::before {
+	height: 0px; padding-top: 35px; margin-top: -35px; display: block; =
+content: "?";
+}
+div.article {
+	margin: 0px auto; text-align: justify; min-width: 16em; max-width: =
+35em;
+}
+div.widePage {
+	margin: 0px 7%;
+}
+div.wideDeco {
+	margin: 0px 1% 0px 1.5%;
+}
+div.topic {
+	margin: 0px 5%;
+}
+div#toc {
+	text-align: left; line-height: 1.5em; font-weight: 700;
+}
+div#cookiewarning {
+	background: rgba(246, 255, 246, 0.93); padding: 0.5em; left: 0px; top: =
+33px; width: 100%; text-align: center; border-bottom-color: rgb(0, 0, =
+0); border-bottom-width: 2px; border-bottom-style: solid; position: =
+fixed; z-index: 2;
+}
+button#cookieGotIt {
+	border: 1px solid rgb(0, 0, 0); border-image: none; font-size: 1.2em;
+}
+div.navlevel0 {
+	background: rgb(59, 59, 93);
+}
+div.navbox0 {
+	background: rgb(59, 59, 93);
+}
+div.navlevel1 {
+	background: rgb(110, 110, 144);
+}
+div.navlevel2 {
+	background: rgb(161, 161, 195);
+}
+div.navlevel3 {
+	background: rgb(212, 212, 246);
+}
+div.navlogo {
+	height: 32px; line-height: 32px; display: inline-block;
+}
+div.navbox0 {
+	height: 32px; line-height: 32px; display: inline-block;
+}
+div.navbox1 {
+	height: 32px; line-height: 32px; display: inline-block;
+}
+div.navbox2 {
+	height: 32px; line-height: 32px; display: inline-block;
+}
+div.navbox3 {
+	height: 32px; line-height: 32px; display: inline-block;
+}
+div.navlogo {
+	background: url("imags/navlogo.png") no-repeat; width: 50px;
+}
+div.navbox0 {
+	width: auto; color: rgb(204, 204, 204); text-shadow: 2px 2px 2px #000;
+}
+div.navbox1 {
+	background: url("imags/navsep1.png") repeat-y rgb(110, 110, 144); =
+width: auto; color: rgb(255, 255, 255); padding-left: 32px; text-shadow: =
+2px 2px 2px #333;
+}
+div.navbox2 {
+	background: url("imags/navsep2.png") repeat-y rgb(161, 161, 195); =
+width: auto; color: rgb(0, 0, 0); padding-left: 32px; text-shadow: 2px =
+2px 2px #ccc;
+}
+div.navbox3 {
+	background: url("imags/navsep3.png") repeat-y rgb(212, 212, 246); =
+width: auto; color: rgb(51, 51, 51); padding-left: 32px; text-shadow: =
+2px 2px 2px #fff;
+}
+div.navBadge {
+	margin: 1px 8px 0px 0px; float: right;
+}
+div.tipBadge {
+	margin: 5px 8px; float: right;
+}
+hr.black {
+	border: currentColor; border-image: none; height: 1px; color: rgb(0, 0, =
+0); background-color: rgb(0, 0, 0);
+}
+hr.footnote {
+	border: currentColor; border-image: none; height: 1px; color: rgb(0, 0, =
+0); clear: both; margin-top: 2em; background-color: rgb(0, 0, 0);
+}
+a:link {
+	color: rgb(0, 51, 153);
+}
+a:visited {
+	color: rgb(51, 0, 102);
+}
+a.nav0 {
+	color: rgb(204, 204, 204);
+}
+a.nav1 {
+	color: rgb(255, 255, 255);
+}
+a.nav2 {
+	color: rgb(0, 0, 0);
+}
+a.nav3 {
+	color: rgb(51, 51, 51);
+}
+a:hover:link {
+	color: rgb(51, 102, 255);
+}
+a:hover:visited {
+	color: rgb(51, 102, 255);
+}
+a:active:link {
+	color: rgb(255, 153, 0);
+}
+a:active:visited {
+	color: rgb(255, 153, 0);
+}
+.center {
+	text-align: center; margin-right: auto; margin-left: auto;
+}
+.htoc {
+	text-align: center; line-height: 1.5em; font-weight: 700;
+}
+ul.compact {
+	padding: 1em; margin-top: 0px;
+}
+li.section {
+	font-weight: 700; margin-bottom: 1em;
+}
+em.sectInfo {
+	font-style: italic; font-weight: 400;
+}
+img.noBo {
+	border: 0px currentColor; border-image: none;
+}
+img.vcenter {
+	vertical-align: middle;
+}
+div.copy {
+	text-align: right; font-style: italic;
+}
+p.footnote {
+	font-size: 0.83em;
+}
+img.left {
+	margin: 0.2em 1.2em 0.7em 0px; float: left;
+}
+img.right {
+	margin: 0.2em 0px 0.7em 1.2em; float: right;
+}
+div.floatLeft {
+	text-align: center; margin-right: 1.2em; margin-bottom: 0.5em; float: =
+left;
+}
+div.floatRight {
+	text-align: center; margin-bottom: 0.5em; margin-left: 1.2em; float: =
+right;
+}
+.caption {
+	font-size: 0.85em; font-style: italic; margin-top: 0.4em; white-space: =
+normal;
+}
+div.bookmarks {
+	background: rgb(255, 255, 255); margin: 1.5em auto 0px; padding: 6px; =
+border: 1px solid rgb(153, 153, 153); border-image: none; font-size: =
+0.8em; display: table;
+}
+hr.bm {
+	border: currentColor; border-image: none; width: 100%; height: 1px; =
+color: rgb(153, 153, 153); background-color: rgb(153, 153, 153);
+}
+div.bmItem {
+	height: 18px; text-decoration: none; float: left;
+}
+img.bmIcon {
+	border: 0px currentColor; border-image: none; margin-right: 0.3em; =
+margin-left: 1em; vertical-align: middle;
+}
+a.bmLink {
+	text-decoration: none;
+}
+sup {
+	font-size: 0.75em;
+}
+h1 {
+	text-align: left;
+}
+h2 {
+	text-align: left;
+}
+h3 {
+	text-align: left;
+}
+.preformat_wide {
+	-ms-overflow-x: auto; max-width: 100%;
+}
+@media all and (max-width:36em)
+{
+body.edu {
+	background: url("imags/bkg_edu-lite.jpg") repeat-y rgb(255, 255, 255);
+}
+body.hardware {
+	background: url("imags/bkg_hardware-lite.jpg") repeat-y rgb(255, 255, =
+255);
+}
+body.software {
+	background: url("imags/bkg_software-lite.png") repeat-y rgb(255, 255, =
+255);
+}
+div#header {
+	font-size: 16px;
+}
+div#footer {
+	font-size: 16px;
+}
+div#wrapDeco {
+	margin: 0px 1em -35px; height: auto !important; min-height: 100%;
+}
+div.escWrapDeco {
+	margin: 0px -1em; text-align: center;
+}
+div.article {
+	margin: 0px auto; text-align: justify; min-width: 15em; max-width: =
+35em;
+}
+div.widePage {
+	margin: 0px 2.5%;
+}
+div.wideDeco {
+	margin: 0px 1% 0px 1.5%;
+}
+div.topic {
+	margin: 0px 1.5%;
+}
+div.navlogo {
+	background-position: -27px; width: 15px;
+}
+li {
+	margin-bottom: 0.5em; margin-left: -1em;
+}
+.large {
+	height: auto; max-width: 100%;
+}
+}
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pagead2.googlesyndication.com/pagead/show_ads.js
+
+(function(){var n=3Dthis,aa=3Dfunction(a,b,c){return =
+a.call.apply(a.bind,arguments)},ba=3Dfunction(a,b,c){if(!a)throw =
+Error();if(2<arguments.length){var =
+d=3DArray.prototype.slice.call(arguments,2);return function(){var =
+c=3DArray.prototype.slice.call(arguments);Array.prototype.unshift.apply(c=
+,d);return a.apply(b,c)}}return function(){return =
+a.apply(b,arguments)}},u=3Dfunction(a,b,c){u=3DFunction.prototype.bind&&-=
+1!=3DFunction.prototype.bind.toString().indexOf("native =
+code")?aa:ba;return u.apply(null,arguments)};var v=3D(new =
+Date).getTime();var x=3Dfunction(a){a=3DparseFloat(a);return =
+isNaN(a)||1<a||0>a?0:a},ca=3Dfunction(a,b){var c=3DparseInt(a,10);return =
+isNaN(c)?b:c},da=3D/^([\w-]+\.)*([\w-]{2,})(\:[0-9]+)?$/,ea=3Dfunction(a,=
+b){if(!a)return b;var c=3Da.match(da);return c?c[0]:b};var =
+fa=3Dx("0.0"),ga=3Dca("101",-1),ha=3Dca("98",0),ia=3Dx("0.05"),ja=3Dx("0.=
+001"),ka=3Dx("0.001"),la=3Dx("0.01"),ma=3Dx("0.03"),na=3Dx("0.001"),oa=3D=
+x("0.01"),pa=3Dx("");var =
+z=3Dfunction(){return"r20160308"},A=3D/^true$/.test("false")?!0:!1,qa=3D/=
+^true$/.test("false")?!0:!1,ra=3D/^true$/.test("false")?!0:!1,sa=3Dra||!q=
+a;var B=3DString.prototype.trim?function(a){return =
+a.trim()}:function(a){return =
+a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},ta=3D/&/g,ua=3D/</g,va=3D/>/g,wa=3D=
+/"/g,xa=3D/'/g,ya=3D/\x00/g,C=3D{"\x00":"\\0","\b":"\\b","\f":"\\f","\n":=
+"\\n","\r":"\\r","\t":"\\t","\x0B":"\\x0B",'"':'\\"',"\\":"\\\\","<":"<"}=
+,D=3D{"'":"\\'"},za=3Dfunction(a,b){return a<b?-1:a>b?1:0};var =
+Aa=3DArray.prototype.forEach?function(a,b,c){Array.prototype.forEach.call=
+(a,b,c)}:function(a,b,c){for(var d=3Da.length,f=3D"string"=3D=3Dtypeof =
+a?a.split(""):a,e=3D0;e<d;e++)e in f&&b.call(c,f[e],e,a)};var E;a:{var =
+Ba=3Dn.navigator;if(Ba){var Ca=3DBa.userAgent;if(Ca){E=3DCa;break =
+a}}E=3D""}var F=3Dfunction(a){return-1!=3DE.indexOf(a)};var =
+Da=3Dfunction(){return F("Opera")||F("OPR")};var H=3Dfunction(a){H[" =
+"](a);return a};H[" "]=3Dfunction(){};var =
+Ea=3DDa(),I=3DF("Trident")||F("MSIE"),Fa=3DF("Edge"),J=3DF("Gecko")&&!(-1=
+!=3DE.toLowerCase().indexOf("webkit")&&!F("Edge"))&&!(F("Trident")||F("MS=
+IE"))&&!F("Edge"),Ga=3D-1!=3DE.toLowerCase().indexOf("webkit")&&!F("Edge"=
+),Ha=3Dfunction(){var a=3Dn.document;return a?a.documentMode:void 0},Ia;=0A=
+a:{var Ja=3D"",Ka=3Dfunction(){var =
+a=3DE;if(J)return/rv\:([^\);]+)(\)|;)/.exec(a);if(Fa)return/Edge\/([\d\.]=
++)/.exec(a);if(I)return/\b(?:MSIE|rv)[: =
+]([^\);]+)(\)|;)/.exec(a);if(Ga)return/WebKit\/(\S+)/.exec(a);if(Ea)retur=
+n/(?:Version)[ \/]?(\S+)/.exec(a)}();Ka&&(Ja=3DKa?Ka[1]:"");if(I){var =
+La=3DHa();if(null!=3DLa&&La>parseFloat(Ja)){Ia=3DString(La);break =
+a}}Ia=3DJa}=0A=
+var Ma=3DIa,Na=3D{},Oa=3Dfunction(a){if(!Na[a]){for(var =
+b=3D0,c=3DB(String(Ma)).split("."),d=3DB(String(a)).split("."),f=3DMath.m=
+ax(c.length,d.length),e=3D0;0=3D=3Db&&e<f;e++){var =
+g=3Dc[e]||"",h=3Dd[e]||"",k=3DRegExp("(\\d*)(\\D*)","g"),l=3DRegExp("(\\d=
+*)(\\D*)","g");do{var =
+m=3Dk.exec(g)||["","",""],q=3Dl.exec(h)||["","",""];if(0=3D=3Dm[0].length=
+&&0=3D=3Dq[0].length)break;b=3Dza(0=3D=3Dm[1].length?0:parseInt(m[1],10),=
+0=3D=3Dq[1].length?0:parseInt(q[1],10))||za(0=3D=3Dm[2].length,0=3D=3Dq[2=
+].length)||za(m[2],q[2])}while(0=3D=3Db)}Na[a]=3D0<=3Db}},Pa=3Dn.document=
+,Qa=3D=0A=
+Pa&&I?Ha()||("CSS1Compat"=3D=3DPa.compatMode?parseInt(Ma,10):5):void =
+0;var Ra;if(!(Ra=3D!J&&!I)){var =
+Sa;if(Sa=3DI)Sa=3D9<=3DNumber(Qa);Ra=3DSa}Ra||J&&Oa("1.9.1");I&&Oa("9");v=
+ar Ta=3Dfunction(a){try{var =
+b;if(b=3D!!a&&null!=3Da.location.href)a:{try{H(a.foo);b=3D!0;break =
+a}catch(c){}b=3D!1}return =
+b}catch(c){return!1}},K=3Dfunction(a,b){if(!(1E-4>Math.random())){var =
+c=3DMath.random();if(c<b)return =
+c=3DUa(window),a[Math.floor(c*a.length)]}return =
+null},Ua=3Dfunction(a){try{var b=3Dnew =
+Uint32Array(1);a.crypto.getRandomValues(b);return =
+b[0]/65536/65536}catch(c){return =
+Math.random()}},Va=3Dfunction(a,b){for(var c in =
+a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void =
+0,a[c],c,a)},Wa=3Dfunction(a){var b=3D=0A=
+a.length;if(0=3D=3Db)return 0;for(var =
+c=3D305419896,d=3D0;d<b;d++)c^=3D(c<<5)+(c>>2)+a.charCodeAt(d)&4294967295=
+;return 0<c?c:4294967296+c};var =
+Xa=3Dfunction(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.atta=
+chEvent&&a.attachEvent("on"+b,c)};var =
+$a=3Dfunction(a,b,c,d,f,e){try{if((d?a.X:Math.random())<(f||a.N)){var =
+g=3Da.M+b+("&"+Ya(c,1)),g=3Dg.substring(0,2E3);"undefined"=3D=3D=3Dtypeof=
+ e?Za(g):Za(g,e)}}catch(h){}},Ya=3Dfunction(a,b){var =
+c=3D[];Va(a,function(a,f){var e=3Dnull,g=3Dtypeof =
+a;if(("object"=3D=3Dg&&null!=3Da||"function"=3D=3Dg)&&2>b)e=3DYa(a,b+1);e=
+lse =
+if(0=3D=3D=3Da||a)e=3DString(a);e&&c.push(f+"=3D"+encodeURIComponent(e))}=
+);return =
+c.join("&")},Za=3Dfunction(a,b){n.google_image_requests||(n.google_image_=
+requests=3D[]);var c=3Dn.document.createElement("img");if(b){var d=3D=0A=
+function(a){b(a);a=3Dd;c.removeEventListener?c.removeEventListener("load"=
+,a,!1):c.detachEvent&&c.detachEvent("onload",a);a=3Dd;c.removeEventListen=
+er?c.removeEventListener("error",a,!1):c.detachEvent&&c.detachEvent("oner=
+ror",a)};Xa(c,"load",d);Xa(c,"error",d)}c.src=3Da;n.google_image_requests=
+.push(c)};var =
+ab=3Ddocument,L=3Dwindow,bb,cb=3Dnull,M=3Dab.getElementsByTagName("script=
+");M&&M.length&&(cb=3DM[M.length-1]);bb=3Dcb;var =
+db=3DObject.prototype.hasOwnProperty,eb=3Dfunction(a,b){for(var c in =
+a)db.call(a,c)&&b.call(void =
+0,a[c],c,a)},N=3Dfunction(a){return!(!a||!a.call)&&"function"=3D=3D=3Dtyp=
+eof a},fb=3Dfunction(a,b){for(var =
+c=3D1,d=3Darguments.length;c<d;++c)a.push(arguments[c])},gb=3Dfunction(a,=
+b){if(a.indexOf){var c=3Da.indexOf(b);return =
+0<c||0=3D=3D=3Dc}for(c=3D0;c<a.length;c++)if(a[c]=3D=3D=3Db)return!0;retu=
+rn!1},hb=3Dfunction(a){"google_onload_fired"in =
+a||(a.google_onload_fired=3D!1,Xa(a,"load",function(){a.google_onload_fir=
+ed=3D!0}))},ib=3Dfunction(a){a=3D=0A=
+a.google_unique_id;return"number"=3D=3D=3Dtypeof =
+a?a:0},jb=3D!!window.google_async_iframe_id;var =
+kb=3Dfunction(a){return(a=3Da.google_ad_modifications)?a.loeids||[]:[]},l=
+b=3Dfunction(a,b,c){if(!a)return null;for(var =
+d=3D0;d<a.length;++d)if((a[d].ad_slot||b)=3D=3Db&&(a[d].ad_tag_origin||c)=
+=3D=3Dc)return a[d];return null};var =
+mb=3Dfunction(a,b,c){this.U=3Da;this.P=3Db;this.w=3Dc;this.v=3Dnull;this.=
+O=3Dthis.o;this.ca=3D!1},nb=3Dfunction(a,b,c){this.message=3Da;this.fileN=
+ame=3Db||"";this.lineNumber=3Dc||-1},pb=3Dfunction(a,b,c,d){var =
+f;try{f=3Dc()}catch(h){var e=3Da.w;try{var =
+g=3Dob(h),e=3D(d||a.O).call(a,b,g,void 0,void =
+0)}catch(k){a.o("pAR",k)}if(!e)throw h;}finally{}return =
+f},qb=3Dfunction(a,b){var c=3DO;return function(){for(var =
+d=3D[],f=3D0;f<arguments.length;++f)d[f]=3Darguments[f];return =
+pb(c,a,function(){return b.apply(void 0,d)})}};=0A=
+mb.prototype.o=3Dfunction(a,b,c,d,f){var e=3D{};e.context=3Da;b =
+instanceof =
+nb||(b=3Dob(b));e.msg=3Db.message.substring(0,512);b.fileName&&(e.file=3D=
+b.fileName);0<b.lineNumber&&(e.line=3Db.lineNumber.toString());a=3Dn.docu=
+ment;e.url=3Da.URL.substring(0,512);e.ref=3Da.referrer.substring(0,512);i=
+f(this.v)try{this.v(e)}catch(g){}if(d)try{d(e)}catch(g){}$a(this.U,f||thi=
+s.P,e,this.ca,c);return this.w};=0A=
+var ob=3Dfunction(a){var =
+b=3Da.toString();a.name&&-1=3D=3Db.indexOf(a.name)&&(b+=3D": =
+"+a.name);a.message&&-1=3D=3Db.indexOf(a.message)&&(b+=3D": =
+"+a.message);if(a.stack){var =
+c=3Da.stack,d=3Db;try{-1=3D=3Dc.indexOf(d)&&(c=3Dd+"\n"+c);for(var =
+f;c!=3Df;)f=3Dc,c=3Dc.replace(/((https?:\/..*\/)[^\/:]*:\d+(?:.|\n)*)\2/,=
+"$1");b=3Dc.replace(/\n */g,"\n")}catch(e){b=3Dd}}return new =
+nb(b,a.fileName,a.lineNumber)};var rb,O;rb=3Dnew =
+function(){this.M=3D"http"+("http:"=3D=3D=3DL.location.protocol?"":"s")+"=
+://pagead2.googlesyndication.com/pagead/gen_204?id=3D";this.N=3D.01;this.=
+X=3DMath.random()};O=3Dnew mb(rb,"jserror",!0);var =
+yb=3Dfunction(a,b){pb(O,a,b,sb)},sb=3DO.o,zb=3Dfunction(a,b){return =
+qb(a,b)};var =
+Ab=3D{client:"google_ad_client",format:"google_ad_format",slotname:"googl=
+e_ad_slot",output:"google_ad_output",ad_type:"google_ad_type",async_oa:"g=
+oogle_async_for_oa_experiment",peri:"google_top_experiment",pse:"google_p=
+state_expt"};O.w=3D!A;var =
+P=3Dfunction(a,b){this.start=3Da<b?a:b;this.end=3Da<b?b:a};P.prototype.cl=
+one=3Dfunction(){return new P(this.start,this.end)};var =
+Bb=3Dfunction(a,b){this.D=3Db>=3Da?new =
+P(a,b):null},Db=3Dfunction(a,b,c,d,f){var e=3Dnew =
+P(d,d+f-1);(f=3D0>=3Df||f%c.length)||(a=3Da.D,f=3D!(a.start<=3De.start&&a=
+.end>=3De.end));if(f)return null;b=3DCb(b);return =
+null!=3D=3Db&&e.start<=3Db&&e.end>=3Db?c[(b-d)%c.length]:null},Cb=3Dfunct=
+ion(a){var =
+b;try{b=3DparseInt(a.localStorage.getItem("google_experiment_mod"),10)}ca=
+tch(c){return null}if(0<=3Db&&1E3>b)return =
+b;b=3DMath.floor(1E3*Ua(a));try{return =
+a.localStorage.setItem("google_experiment_mod",""+b),b}catch(c){return =
+null}};var Eb=3Dnull,Fb=3Dfunction(){if(!Eb){for(var =
+a=3Dwindow,b=3Da,c=3D0;a&&a!=3Da.parent;)if(a=3Da.parent,c++,Ta(a))b=3Da;=
+else break;Eb=3Db}return Eb};var =
+Q=3D{ia:{},Da:{i:"453848100",j:"453848101"},ua:{i:"24819308",j:"24819309"=
+,fa:"24819320",la:"24819321"},ta:{i:"24819330",j:"24819331"},qa:{i:"86724=
+438",j:"86724439"},ya:{i:"10573505",j:"10573506"},K:{i:"10573595",j:"1057=
+3596"},L:{i:"10573581",j:"10573582"},xa:{i:"312815006",j:"312815007"},J:{=
+i:"312815106",j:"312815107"},ja:{i:"26835105",j:"26835106"},pa:{i:"359237=
+20",j:"35923721"},A:{i:"35923760",j:"35923761"},I:{i:"20040000",j:"200400=
+01"},ga:{i:"20040016",j:"20040017"},va:{i:"19188000",j:"19188001"},=0A=
+wa:{i:"20040032",j:"20040033"},ha:{ea:"314159230",sa:"314159231"},ra:{za:=
+"27285692",Ba:"27285712",Aa:"27285713"},Ca:{i:"111849357",na:"111849358",=
+ma:"111849359"},ka:{i:"29222061",j:"29222062",oa:"29222063"}};var =
+Gb=3Dnew Bb(100,199),Hb=3Dnew Bb(400,499);var =
+R=3Dfunction(a,b,c,d){return =
+a.location&&a.location.hash=3D=3D"#google_plle_"+d?d:K([c,d],b)};var =
+Ib=3Dfunction(a,b,c){yb("files::getSrc",function(){if("https:"=3D=3DL.loc=
+ation.protocol&&"http"=3D=3Dc)throw c=3D"https",Error("Requested url =
+"+a+b);});return[c,"://",a,b].join("")},Jb=3Dfunction(a,b,c){c||(c=3Dsa?"=
+https":"http");return Ib(a,b,c)};var =
+Kb=3Dfunction(){},Mb=3Dfunction(a,b,c){switch(typeof b){case =
+"string":Lb(b,c);break;case =
+"number":c.push(isFinite(b)&&!isNaN(b)?String(b):"null");break;case =
+"boolean":c.push(String(b));break;case =
+"undefined":c.push("null");break;case =
+"object":if(null=3D=3Db){c.push("null");break}if(b instanceof =
+Array||void 0!=3Db.length&&b.splice){var =
+d=3Db.length;c.push("[");for(var =
+f=3D"",e=3D0;e<d;e++)c.push(f),Mb(a,b[e],c),f=3D",";c.push("]");break}c.p=
+ush("{");d=3D"";for(f in =
+b)b.hasOwnProperty(f)&&(e=3Db[f],"function"!=3Dtypeof e&&=0A=
+(c.push(d),Lb(f,c),c.push(":"),Mb(a,e,c),d=3D","));c.push("}");break;case=
+ "function":break;default:throw Error("Unknown type: "+typeof =
+b);}},Nb=3D{'"':'\\"',"\\":"\\\\","/":"\\/","\b":"\\b","\f":"\\f","\n":"\=
+\n","\r":"\\r","\t":"\\t","\x0B":"\\u000b"},Ob=3D/\uffff/.test("\uffff")?=
+/[\\\"\x00-\x1f\x7f-\uffff]/g:/[\\\"\x00-\x1f\x7f-\xff]/g,Lb=3Dfunction(a=
+,b){b.push('"');b.push(a.replace(Ob,function(a){if(a in Nb)return =
+Nb[a];var =
+b=3Da.charCodeAt(0),f=3D"\\u";16>b?f+=3D"000":256>b?f+=3D"00":4096>b&&(f+=
+=3D"0");return Nb[a]=3D=0A=
+f+b.toString(16)}));b.push('"')};var =
+Pb=3DF("Safari")&&!((F("Chrome")||F("CriOS"))&&!Da()&&!F("Edge")||F("Coas=
+t")||Da()||F("Edge")||F("Silk")||F("Android"))&&!(F("iPhone")&&!F("iPod")=
+&&!F("iPad")||F("iPad")||F("iPod"));var =
+S=3Dnull,Qb=3DJ||Ga&&!Pb||Ea||"function"=3D=3Dtypeof n.btoa;var =
+T=3D"google_ad_block google_ad_channel google_ad_client google_ad_format =
+google_ad_height google_ad_host google_ad_host_channel =
+google_ad_host_tier_id google_ad_modifications google_ad_output =
+google_ad_region google_ad_section google_ad_slot google_ad_type =
+google_ad_unit_key google_ad_dom_fingerprint google_ad_width =
+google_adtest google_allow_expandable_ads google_alternate_ad_url =
+google_alternate_color google_ama google_analytics_domain_name =
+google_analytics_uacct google_analytics_url_parameters =
+google_auto_format google_available_width google_captcha_token =
+google_city google_color_bg google_color_border google_color_line =
+google_color_link google_color_text google_color_url google_container_id =
+google_content_recommendation_ui_type google_contents google_core_dbp =
+google_country google_cpm google_ctr_threshold google_cust_age =
+google_cust_ch google_cust_criteria google_cust_gender google_cust_id =
+google_cust_interests google_cust_job google_cust_l google_cust_lh =
+google_cust_u_url google_disable_video_autoplay =
+google_delay_requests_count google_delay_requests_delay google_ed =
+google_eids google_enable_content_recommendations google_enable_ose =
+google_encoding google_floating_ad_position google_font_face =
+google_font_size google_frame_id google_gl google_hints =
+google_is_split_slot google_image_size google_kw google_kw_type =
+google_lact google_language google_loeid google_max_num_ads =
+google_max_radlink_len google_mtl google_nofo google_num_radlinks =
+google_num_radlinks_per_unit google_only_ads_with_video =
+google_only_pyv_ads google_only_userchoice_ads google_override_format =
+google_page_url google_pgb_reactive google_previous_watch =
+google_previous_searches google_referrer_url google_region =
+google_responsive_formats google_reuse_colors google_rl_dest_url =
+google_rl_filtering google_rl_mode google_rt google_safe google_scs =
+google_source_type google_sui google_skip =
+google_tag_for_child_directed_treatment google_tag_info =
+google_tag_origin google_tdsma google_tfs google_tl google_ui_features =
+google_video_doc_id google_video_product_type google_video_url_to_fetch =
+google_webgl_support google_with_pyv_ads google_yt_pt =
+google_yt_up".split(" "),=0A=
+Rb=3D{google_ad_modifications:!0,google_analytics_domain_name:!0,google_a=
+nalytics_uacct:!0},Sb=3Dfunction(a){return(a=3Da.innerText||a.innerHTML)&=
+&(a=3Da.replace(/^\s+/,"").split(/\r?\n/,1)[0].match(/^\x3c!--+(.*?)(?:--=
++>)?\s*$/))&&/google_ad_client/.test(a[1])?a[1]:null},Tb=3Dfunction(a){if=
+(a=3Da.innerText||a.innerHTML)if(a=3Da.replace(/^\s+/,"").split(/\r?\n/,1=
+)[0],(a=3Da.match(/^\x3c!--+(.*?)(?:--+>)?\s*$/)||a.match(/^\/*\s*<!\[CDA=
+TA\[(.*?)(?:\/*\s*\]\]>)?\s*$/i))&&/google_ad_client/.test(a[1]))return =
+a[1];return null},=0A=
+Ub=3Dfunction(a){if(a=3Da.innerText||a.innerHTML)if(a=3Da.replace(/^\s+|\=
+s+$/g,"").replace(/\s*(\r?\n)+\s*/g,";"),(a=3Da.match(/^\x3c!--+(.*?)(?:-=
+-+>)?$/)||a.match(/^\/*\s*<!\[CDATA\[(.*?)(?:\/*\s*\]\]>)?$/i))&&/google_=
+ad_client/.test(a[1]))return a[1];return null},Xb=3Dfunction(a,b){var =
+c;try{a:{var =
+d=3Da.document.getElementsByTagName("script"),f=3DSb,e;"undefined"!=3Dtyp=
+eof =
+a.google_pubvars_recovery_regexp_experiment?e=3Da.google_pubvars_recovery=
+_regexp_experiment:(e=3DK(["C","E","EM"],ma),a.google_pubvars_recovery_re=
+gexp_experiment=3D=0A=
+e);b.google_pubvars_recovery_regexp_experiment=3De;switch(e){case =
+"E":f=3DTb;break;case "EM":var =
+g=3Da.navigator&&a.navigator.userAgent||"",h;if(!(h=3D/appbankapppuzdradb=
+|daumapps|fban|fbios|fbav|fb_iab|gsa\/|messengerforios|naver|niftyappmobi=
+le|nonavigation|pinterest|twitter|ucbrowser|yjnewsapp|youtube/i.test(g)))=
+{var k;if(k=3D/i(phone|pad|pod)/i.test(g)){var =
+l;if(l=3D/applewebkit/i.test(g)&&!/version|safari/i.test(g)){var =
+m;try{m=3D!(!L.navigator.W&&!(A&&L.google_top_window||L.top).navigator.W)=
+}catch(r){m=3D!1}l=3D=0A=
+!m}k=3Dl}h=3Dk}f=3Dh?Sb:Ub}for(var q=3Dd.length-1;0<=3Dq;q--){var =
+w=3Dd[q];if(!w.google_parsed_script){w.google_parsed_script=3D!0;var =
+p=3Df(w);if(p){c=3Dp;break =
+a}}}c=3Dnull}}catch(r){return!1}if(!c)return!1;try{for(var =
+d=3D/(google_\w+) *=3D *(['"]?[\w.-]+['"]?) =
+*(?:;|$)/gm,f=3D{},t;t=3Dd.exec(c);)f[t[1]]=3DVb(t[2]);Wb(f,a)}catch(r){r=
+eturn!1}return!!a.google_ad_client},Yb=3Dfunction(a){a.google_page_url&&(=
+a.google_page_url=3DString(a.google_page_url));var =
+b=3D[];eb(a,function(a,d){if(null!=3Da){var f;try{var e=3D[];Mb(new =
+Kb,a,e);f=3De.join("")}catch(g){}f&&=0A=
+(f=3Df.replace(/\//g,"\\$&"),fb(b,d,"=3D",f,";"))}});return =
+b.join("")},Zb=3Dfunction(a){for(var b=3D0,c=3DT.length;b<c;b++){var =
+d=3DT[b];Rb[d]||(a[d]=3Dnull)}},Vb=3Dfunction(a){switch(a){case =
+"true":return!0;case "false":return!1;case "null":return null;case =
+"undefined":break;default:try{var =
+b=3Da.match(/^(?:'(.*)'|"(.*)")$/);if(b)return =
+b[1]||b[2]||"";if(/^[-+]?\d*(\.\d+)?$/.test(a)){var =
+c=3DparseFloat(a);return c=3D=3D=3Dc?c:void =
+0}}catch(d){}}},Wb=3Dfunction(a,b){for(var c=3D0;c<T.length;c++){var =
+d=3DT[c];null=3D=3Db[d]&&null!=3D=0A=
+a[d]&&(b[d]=3Da[d])}};var =
+U=3Dfunction(a){this.m=3Da;a.google_iframe_oncopy||(a.google_iframe_oncop=
+y=3D{handlers:{},upd:u(this.ba,this)});this.Z=3Da.google_iframe_oncopy},$=
+b;var V=3D"var =
+i=3Dthis.id,s=3Dwindow.google_iframe_oncopy,H=3Ds&&s.handlers,h=3DH&&H[i]=
+,w=3Dthis.contentWindow,d;try{d=3Dw.document}catch(e){}if(h&&d&&(!d.body|=
+|!d.body.firstChild)){if(h.call){setTimeout(h,0)}else =
+if(h.match){try{h=3Ds.upd(h,i)}catch(e){}w.location.replace(h)}}";=0A=
+/[\x00&<>"']/.test(V)&&(-1!=3DV.indexOf("&")&&(V=3DV.replace(ta,"&amp;"))=
+,-1!=3DV.indexOf("<")&&(V=3DV.replace(ua,"&lt;")),-1!=3DV.indexOf(">")&&(=
+V=3DV.replace(va,"&gt;")),-1!=3DV.indexOf('"')&&(V=3DV.replace(wa,"&quot;=
+")),-1!=3DV.indexOf("'")&&(V=3DV.replace(xa,"&#39;")),-1!=3DV.indexOf("\x=
+00")&&(V=3DV.replace(ya,"&#0;")));$b=3DV;U.prototype.set=3Dfunction(a,b){=
+this.Z.handlers[a]=3Db;this.m.addEventListener&&this.m.addEventListener("=
+load",u(this.R,this,a),!1)};=0A=
+U.prototype.R=3Dfunction(a){a=3Dthis.m.document.getElementById(a);try{var=
+ =
+b=3Da.contentWindow.document;if(a.onload&&b&&(!b.body||!b.body.firstChild=
+))a.onload()}catch(c){}};U.prototype.ba=3Dfunction(a,b){var =
+c=3Dac("rx",a),d;a:{if(a&&(d=3Da.match("dt=3D([^&]+)"))&&2=3D=3Dd.length)=
+{d=3Dd[1];break a}d=3D""}d=3D(new =
+Date).getTime()-d;c=3Dc.replace(/&dtd=3D(\d+|-?M)/,"&dtd=3D"+(1E5<=3Dd?"M=
+":0<=3Dd?d:"-M"));this.set(b,c);return c};=0A=
+var ac=3Dfunction(a,b){var c=3Dnew =
+RegExp("\\b"+a+"=3D(\\d+)"),d=3Dc.exec(b);d&&(b=3Db.replace(c,a+"=3D"+(+d=
+[1]+1||1)));return b};J||Ga||I&&Oa(11);var bc=3D/MSIE =
+[2-7]|PlayStation|Gecko\/20090226|Android =
+2\.|Opera/i,cc=3D/Android/,dc=3D!1;var =
+ec=3Dfunction(a){if(!a)return"";(a=3Da.toLowerCase())&&"ca-"!=3Da.substri=
+ng(0,3)&&(a=3D"ca-"+a);return a};var W=3Dnull;var =
+fc=3D{"120x90":!0,"160x90":!0,"180x90":!0,"200x90":!0,"468x15":!0,"728x15=
+":!0};var X=3D"google_ad_client google_ad_format google_ad_height =
+google_ad_width google_city google_country google_encoding =
+google_language google_page_url".split(" "),gc=3Dfunction(a){try{var =
+b=3Da.top.google_ads_params_store;if(b)return =
+b;b=3Da.top.google_ads_params_store=3D{};if(b=3D=3D=3Da.top.google_ads_pa=
+rams_store)return b}catch(c){}return null};var =
+Y,Z=3Dfunction(a){this.u=3D[];this.m=3Da||window;this.l=3D0;this.s=3Dnull=
+;this.H=3D0},hc=3Dfunction(a,b){this.S=3Da;this.da=3Db};Z.prototype.enque=
+ue=3Dfunction(a,b){0!=3Dthis.l||0!=3Dthis.u.length||b&&b!=3Dwindow?this.C=
+(a,b):(this.l=3D2,this.G(new =
+hc(a,window)))};Z.prototype.C=3Dfunction(a,b){this.u.push(new =
+hc(a,b||this.m));ic(this)};Z.prototype.T=3Dfunction(a){this.l=3D1;if(a){v=
+ar =
+b=3Dzb("sjr::timeout",u(this.F,this,!0));this.s=3Dthis.m.setTimeout(b,a)}=
+};=0A=
+Z.prototype.F=3Dfunction(a){a&&++this.H;1=3D=3Dthis.l&&(null!=3Dthis.s&&(=
+this.m.clearTimeout(this.s),this.s=3Dnull),this.l=3D0);ic(this)};Z.protot=
+ype.Y=3Dfunction(){return!(!window||!Array)};Z.prototype.$=3Dfunction(){r=
+eturn =
+this.H};Z.prototype.nq=3DZ.prototype.enqueue;Z.prototype.nqa=3DZ.prototyp=
+e.C;Z.prototype.al=3DZ.prototype.T;Z.prototype.rl=3DZ.prototype.F;Z.proto=
+type.sz=3DZ.prototype.Y;Z.prototype.tc=3DZ.prototype.$;var =
+ic=3Dfunction(a){var =
+b=3Dzb("sjr::tryrun",u(a.aa,a));a.m.setTimeout(b,0)};=0A=
+Z.prototype.aa=3Dfunction(){if(0=3D=3Dthis.l&&this.u.length){var =
+a=3Dthis.u.shift();this.l=3D2;var =
+b=3Dzb("sjr::run",u(this.G,this,a));a.da.setTimeout(b,0);ic(this)}};Z.pro=
+totype.G=3Dfunction(a){this.l=3D0;a.S()};=0A=
+var jc=3Dfunction(a){try{return =
+a.sz()}catch(b){return!1}},kc=3Dfunction(a){return!!a&&("object"=3D=3D=3D=
+typeof a||"function"=3D=3D=3Dtypeof =
+a)&&jc(a)&&N(a.nq)&&N(a.nqa)&&N(a.al)&&N(a.rl)},lc=3Dfunction(){if(Y&&jc(=
+Y))return Y;var a=3DFb(),b=3Da.google_jobrunner;return =
+kc(b)?Y=3Db:a.google_jobrunner=3DY=3Dnew =
+Z(a)},mc=3Dfunction(a,b){lc().nq(a,b)},nc=3Dfunction(a,b){lc().nqa(a,b)};=
+var oc=3Djb?1=3D=3Dib(L):!ib(L),pc=3Dfunction(){var =
+a=3Dra?"https":"http",b=3DH("script"),c;(c=3DA&&window.google_cafe_host)|=
+|(c=3Dea("","pagead2.googlesyndication.com"));return["<",b,' =
+src=3D"',Jb(c,["/pagead/js/",z(),"/r20151006/show_ads_impl.js"].join(""),=
+a),'"></',b,">"].join("")},qc=3Dfunction(a,b,c,d){return function(){var =
+f=3D!1;d&&lc().al(3E4);try{var e=3D=0A=
+a.document.getElementById(b).contentWindow;if(Ta(e)){var =
+g=3Da.document.getElementById(b).contentWindow,h=3Dg.document;h.body&&h.b=
+ody.firstChild||(/Firefox/.test(navigator.userAgent)?h.open("text/html","=
+replace"):h.open(),g.google_async_iframe_close=3D!0,h.write(c))}else{for(=
+var =
+k=3Da.document.getElementById(b).contentWindow,e=3Dc,e=3DString(e),g=3D['=
+"'],h=3D0;h<e.length;h++){var =
+l=3De.charAt(h),m=3Dl.charCodeAt(0),q=3Dh+1,w;if(!(w=3DC[l])){var =
+p;if(31<m&&127>m)p=3Dl;else{var t=3Dl;if(t in D)p=3DD[t];else if(t in =
+C)p=3DD[t]=3DC[t];=0A=
+else{var =
+r=3Dt,y=3Dt.charCodeAt(0);if(31<y&&127>y)r=3Dt;else{if(256>y){if(r=3D"\\x=
+",16>y||256<y)r+=3D"0"}else =
+r=3D"\\u",4096>y&&(r+=3D"0");r+=3Dy.toString(16).toUpperCase()}p=3DD[t]=3D=
+r}}w=3Dp}g[q]=3Dw}g.push('"');k.location.replace("javascript:"+g.join("")=
+)}f=3D!0}catch(G){k=3DFb().google_jobrunner,kc(k)&&k.rl()}f&&(f=3Dac("goo=
+gle_async_rrc",c),(new U(a)).set(b,qc(a,b,f,!1)))}},rc=3Dfunction(a){var =
+b=3D["<iframe"];eb(a,function(a,d){null!=3Da&&b.push(" =
+"+d+'=3D"'+a+'"')});b.push("></iframe>");return =
+b.join("")},sc=3Dfunction(a){if(!W)a:{for(var b=3D=0A=
+[n.top],c=3D[],d=3D0,f;f=3Db[d++];){c.push(f);try{if(f.frames)for(var =
+e=3Df.frames.length,g=3D0;g<e&&1024>b.length;++g)b.push(f.frames[g])}catc=
+h(k){}}for(b=3D0;b<c.length;b++)try{var =
+h=3Dc[b].frames.google_esf;if(h){W=3Dh;break =
+a}}catch(k){}W=3Dnull}return =
+W?"":(c=3D{style:"display:none"},c["data-ad-client"]=3Dec(a),c.id=3D"goog=
+le_esf",c.name=3D"google_esf",a=3DJb(ea("","googleads.g.doubleclick.net")=
+,["/pagead/html/",z(),"/r20151006/zrt_lookup.html"].join("")),=0A=
+c.src=3Da,rc(c))},tc=3Dfunction(a,b){var =
+c=3Db.google_ad_output,d=3Db.google_ad_format;d||"html"!=3Dc&&null!=3Dc||=
+(d=3Db.google_ad_width+"x"+b.google_ad_height);c=3D!b.google_ad_slot||b.g=
+oogle_override_format||!fc[b.google_ad_width+"x"+b.google_ad_height]&&"aa=
+"=3D=3Db.google_loader_used;d=3Dd&&c?d.toLowerCase():"";b.google_ad_forma=
+t=3Dd;for(var =
+d=3D[b.google_ad_slot,b.google_ad_format,b.google_ad_type,b.google_ad_wid=
+th,b.google_ad_height],c=3D[],f=3D0,e=3Dbb.parentElement;e&&25>f;e=3De.pa=
+rentNode,++f)c.push(9!=3D=3De.nodeType&&e.id||=0A=
+"");(c=3Dc.join())&&d.push(c);b.google_ad_unit_key=3DWa(d.join(":")).toSt=
+ring();d=3Da.google_adk2_experiment=3Da.google_adk2_experiment||K(["C","E=
+"],ka)||"N";if("E"=3D=3Dd){d=3Dbb;c=3D[];for(f=3D0;d&&25>f;++f){var =
+e=3D"",e=3D(e=3D9!=3D=3Dd.nodeType&&d.id)?"/"+e:"",g;a:{if(d&&d.nodeName&=
+&d.parentElement){g=3Dd.nodeName.toString().toLowerCase();for(var =
+h=3Dd.parentElement.childNodes,k=3D0,l=3D0;l<h.length;++l){var =
+m=3Dh[l];if(m.nodeName&&m.nodeName.toString().toLowerCase()=3D=3D=3Dg){if=
+(d=3D=3D=3Dm){g=3D"."+k;break =
+a}++k}}}g=3D""}c.push((d.nodeName&&d.nodeName.toString().toLowerCase())+=0A=
+e+g);d=3Dd.parentElement}d=3Dc.join()+":";c=3Da;f=3D[];if(c)try{for(var =
+q=3Dc.parent,e=3D0;q&&q!=3D=3Dc&&25>e;++e){var =
+w=3Dq.frames;for(g=3D0;g<w.length;++g)if(c=3D=3D=3Dw[g]){f.push(g);break}=
+c=3Dq;q=3Dc.parent}}catch(p){}b.google_ad_dom_fingerprint=3DWa(d+f.join()=
+).toString()}else"C"=3D=3Dd&&(b.google_ad_dom_fingerprint=3D"ctrl")};(fun=
+ction(a){O.v=3Dfunction(b){Aa(a,function(a){a(b)})}})([function(a){a.shv=3D=
+z()},function(a){Va(Ab,function(b,c){try{null!=3Dn[b]&&(a[c]=3Dn[b])}catc=
+h(d){}})}]);=0A=
+yb("sa::main",function(){var =
+a=3Dwindow,b=3Da.google_ad_modifications=3Da.google_ad_modifications||{};=
+if(!b.plle){b.plle=3D!0;var =
+b=3Db.loeids=3Db.loeids||[],c=3DQ.K,d=3Dc.j;(c=3Da.location&&a.location.h=
+ash=3D=3D"#google_plle_"+d?d:Db(Gb,a,[c.i,d],ga,ha))&&b.push(c);c=3DQ.J;(=
+c=3DR(a,ia,c.i,c.j))&&b.push(c);c=3DQ.L;(c=3DR(a,ja,c.i,c.j))&&b.push(c);=
+c=3DQ.A;(c=3DR(a,oa,c.i,c.j))&&b.push(c);ab.body||(c=3DQ.I,(c=3DR(a,pa,c.=
+i,c.j))&&b.push(c))}d=3Da.google_ad_slot;b=3Da.google_ad_modifications;!b=
+||lb(b.ad_whitelist,d,void 0)?b=3Dnull:(c=3Db.space_collapsing||=0A=
+"none",b=3D(d=3Dlb(b.ad_blacklist,d))?{B:!0,V:d.space_collapsing||c}:b.re=
+move_ads_by_default?{B:!0,V:c}:null);if(b&&b.B)Zb(a);else =
+if(hb(a),(b=3D!1=3D=3D=3Dwindow.google_enable_async)||(b=3Dnavigator.user=
+Agent,bc.test(b)?b=3D!1:(void =
+0!=3D=3Dwindow.google_async_for_oa_experiment||!cc.test(navigator.userAge=
+nt)||bc.test(navigator.userAgent)||(window.google_async_for_oa_experiment=
+=3DDb(Hb,window,["C","E"],Hb.D.start,Math.round(1E3*fa))),b=3Dcc.test(b)?=
+"E"!=3D=3Dwindow.google_async_for_oa_experiment:!0),b=3D!b||window.google=
+_container_id||=0A=
+window.google_ad_output&&"html"!=3Dwindow.google_ad_output),b)a.google_lo=
+ader_used=3D"sb",a.google_start_time=3Dv,tc(a,a),document.write(sc(a.goog=
+le_ad_client)+pc());else{oc&&(c=3Da.google_ad_client,b=3Dnavigator,a&&c&&=
+b&&(b=3Da.document,c=3Dec(c),(d=3DB("r20160212"))&&(d+=3D"/"),d=3DJb("pag=
+ead2.googlesyndication.com","/pub-config/"+d+c+".js"),c=3Db.createElement=
+("script"),c.src=3Dd,(b=3Db.getElementsByTagName("script")[0])&&b.parentN=
+ode&&b.parentNode.insertBefore(c,b)));a.google_unique_id?++a.google_uniqu=
+e_id:=0A=
+a.google_unique_id=3D1;c=3D{};null=3D=3Da.google_ad_client&&Xb(a,c)&&(c.g=
+oogle_loader_features_used=3D2048);Wb(a,c);c.google_loader_used=3D"sa";Zb=
+(a);var b=3DH("script"),f,e;a:{try{var =
+g=3Da.top.google_pubvars_reuse_experiment;if("undefined"!=3D=3Dtypeof =
+g){e=3Dg;break =
+a}g=3DK(["C","E"],la)||null;a.top.google_pubvars_reuse_experiment=3Dg;if(=
+a.top.google_pubvars_reuse_experiment=3D=3D=3Dg){e=3Dg;break =
+a}}catch(tb){}e=3Dnull}if("E"=3D=3D=3De){f=3Dnull!=3Dc.google_ad_client;e=
+=3Dnull!=3Dc.google_ad_width;g=3Dnull!=3Dc.google_ad_height;if(d=3Dgc(a))=
+{for(var h=3D=0A=
+0;h<X.length;h++){var =
+k=3DX[h];null!=3Dc[k]&&(d[k]=3Dc[k])}if(d=3Dgc(a)){var =
+h=3Dd.google_ad_width,k=3Dd.google_ad_height,l=3Dd.google_ad_format;h&&k&=
+&l&&(l=3D(l=3Dl&&l.match(/(\d+)x(\d+)/))?{width:l[1],height:l[2]}:null,!l=
+||l.width=3D=3Dh&&l.height=3D=3Dk||delete =
+d.google_ad_format)}}if(d=3Dgc(a))for(h=3D0;h<X.length;h++)k=3DX[h],null=3D=
+=3Dc[k]&&null!=3Dd[k]&&(c[k]=3Dd[k]);d=3Dnull!=3Dc.google_ad_client;h=3Dn=
+ull!=3Dc.google_ad_width;k=3Dnull!=3Dc.google_ad_height;f=3D[f?"c2":d?"c1=
+":"c0",e?"w2":h?"w1":"w0",g?"h2":k?"h1":"h0"].join()}e=3D{};g=3Dc.google_=
+ad_height;=0A=
+e.width=3D'"'+c.google_ad_width+'"';e.height=3D'"'+g+'"';e.frameborder=3D=
+'"0"';e.marginwidth=3D'"0"';e.marginheight=3D'"0"';e.vspace=3D'"0"';e.hsp=
+ace=3D'"0"';e.allowtransparency=3D'"true"';e.scrolling=3D'"no"';e.allowfu=
+llscreen=3D'"true"';e.onload=3D'"'+$b+'"';for(var =
+m,g=3Da.document,d=3De.id,h=3D0;!d||g.getElementById(d);)d=3D"aswift_"+h+=
++;e.id=3Dd;e.name=3Dd;var =
+d=3Dc.google_ad_width,h=3Dc.google_ad_height,k=3DQ.A,l=3Dk.i,q=3Dk.j,w=3D=
+c.google_active_plles=3Dc.google_active_plles||[];gb(kb(a),l)?w.push(l):g=
+b(kb(a),q)&&w.push(q);dc=3Dgb(kb(a),k.j);=0A=
+k=3D["<iframe"];for(m in =
+e)e.hasOwnProperty(m)&&fb(k,m+"=3D"+e[m]);m=3D"left:0;position:absolute;t=
+op:0;";dc&&(m=3Dm+"width:"+d+"px;height:"+h+"px;");k.push('style=3D"'+m+'=
+"');k.push("></iframe>");m=3De.id;d=3D"border:none;height:"+h+"px;margin:=
+0;padding:0;position:relative;visibility:visible;width:"+d+"px;background=
+-color:transparent";g.write(['<ins id=3D"',m+"_expand",'" =
+style=3D"display:inline-table;',d,'"><ins id=3D"',m+"_anchor",'" =
+style=3D"display:block;',d,'">',k.join(" =
+"),"</ins></ins>"].join(""));m=3De.id;tc(a,c);=0A=
+e=3DYb(c);g=3Dnull;d=3DK(["C","E"],na);if("E"=3D=3Dd){a:{try{if(window.JS=
+ON&&window.JSON.stringify&&window.encodeURIComponent){var =
+p=3DencodeURIComponent(window.JSON.stringify(c)),t;if(Qb)t=3Dn.btoa(p);el=
+se{h=3D[];for(l=3Dk=3D0;l<p.length;l++){for(var =
+r=3Dp.charCodeAt(l);255<r;)h[k++]=3Dr&255,r>>=3D8;h[k++]=3Dr}if(!S)for(S=3D=
+{},p=3D0;65>p;p++)S[p]=3D"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu=
+vwxyz0123456789+/=3D".charAt(p);p=3DS;r=3D[];for(k=3D0;k<h.length;k+=3D3)=
+{var =
+y=3Dh[k],G=3Dk+1<h.length,ub=3DG?h[k+1]:0,vb=3Dk+2<h.length,wb=3Dvb?h[k+2=
+]:0,=0A=
+l=3Dy>>2,q=3D(y&3)<<4|ub>>4,w=3D(ub&15)<<2|wb>>6,xb=3Dwb&63;vb||(xb=3D64,=
+G||(w=3D64));r.push(p[l],p[q],p[w],p[xb])}t=3Dr.join("")}g=3Dt;break =
+a}$a(rb,"sblob",{json:window.JSON?1:0,eURI:window.encodeURIComponent?1:0}=
+,!0,void 0,void 0)}catch(tb){O.o("sblob",tb,void 0,void =
+0)}g=3D""}g||(g=3D"{X}")}else"C"=3D=3Dd&&(g=3D"{C}");t=3Dsc(c.google_ad_c=
+lient);y=3D(new =
+Date).getTime();if(G=3Da.google_async_for_oa_experiment)a.google_async_fo=
+r_oa_experiment=3Dvoid 0;t=3D["<!doctype =
+html><html><body>",t,"<",b,">",e,"google_show_ads_impl=3Dtrue;google_uniq=
+ue_id=3D",=0A=
+ib(a),';google_async_iframe_id=3D"',m,'";google_start_time=3D',v,";",d?'g=
+oogle_pub_vars =3D =
+"'+g+'";':"",f?'google_pubvars_reuse_experiment_result =3D =
+"'+f+'";':"",G?'google_async_for_oa_experiment=3D"'+G+'";':"","google_bpp=
+=3D",y>v?y-v:1,";google_async_rrc=3D0;google_iframe_start_time=3Dnew =
+Date().getTime();</",b,">",pc(),"</body></html>"].join("");(a.document.ge=
+tElementById(m)?mc:nc)(qc(a,m,t,!0))}});}).call(this);=0A=
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dr-lex.be/stupidcookielaw.js
+
+// This is to be inserted only on pages that contain ads.=0A=
+function getCookie(name)=0A=
+{=0A=
+	name +=3D '=3D';=0A=
+	var parts =3D document.cookie.split(/;\s*/);=0A=
+	for(var i =3D 0; i < parts.length; i++) {=0A=
+		var part =3D parts[i];=0A=
+		if(part.indexOf(name) =3D=3D 0)=0A=
+			return part.substring(name.length)=0A=
+	}=0A=
+	return null;=0A=
+}=0A=
+=0A=
+function setCookie(name, value, exdays) {=0A=
+	var exdate =3D new Date();=0A=
+	exdate.setDate(exdate.getDate() + exdays);=0A=
+	var c_value =3D escape(value) + ((exdays =3D=3D null) ? "" : "; =
+expires=3D" + exdate.toUTCString() + "; path=3D/");=0A=
+	document.cookie =3D name + "=3D" + c_value;	=0A=
+}=0A=
+=0A=
+function displayNotification() {=0A=
+	var warnDiv =3D document.createElement("div");=0A=
+	warnDiv.setAttribute("id", "cookiewarning");=0A=
+	warnDiv.innerHTML =3D "Lawmakers force me to warn you that this website =
+will place <A href=3D'http://wikipedia.org/wiki/HTTP_cookie'>cookies</A> =
+in your browser through the Google advertising present on some =
+pages.<br>If this bothers you, either leave this site, configure your =
+browser to block cookies, or use an ad-blocker.<br>Otherwise, just hit =
+the OK button and this warning will not be shown for the next 365 =
+days.<br><BUTTON id=3D'cookieGotIt' =
+onClick=3D'JavaScript:hideCookieWarning();'>OK, got it</BUTTON>";=0A=
+	document.body.insertBefore(warnDiv, document.body.firstChild);=0A=
+}=0A=
+=0A=
+function hideCookieWarning() {=0A=
+	setCookie("lexCookieSeen", null, 365);=0A=
+	var warnDiv =3D document.getElementById("cookiewarning");=0A=
+	warnDiv.parentNode.removeChild(warnDiv);=0A=
+}=0A=
+=0A=
+var cookieChk =3D getCookie("lexCookieSeen");=0A=
+if(cookieChk =3D=3D null || cookieChk =3D=3D "")=0A=
+	displayNotification();=0A=
+
+------=_NextPart_000_00A2_01D17BAA.A6BC4C70--

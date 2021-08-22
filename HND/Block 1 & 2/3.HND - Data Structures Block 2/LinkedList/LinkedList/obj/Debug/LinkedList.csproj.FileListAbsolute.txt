@@ -1,0 +1,6 @@
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+F:\HND\Block 1 & 2\3.HND - Data Structures Block 2\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

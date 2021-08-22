@@ -1,0 +1,13 @@
+C:\Users\dawnwilson\AppData\Local\Temporary Projects\CaseStudyStep1\bin\Debug\CaseStudyStep1.exe.config
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\bin\Debug\CaseStudyStep1.exe.config
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\bin\Debug\CaseStudyStep1.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\bin\Debug\CaseStudyStep1.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.csprojResolveAssemblyReference.cache
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\bin\Debug\CaseStudyStep1.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 9\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 11\2017 Delivery\CaseStudyStep1\CaseStudyStep1\bin\Debug\CaseStudyStep1.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 11\2017 Delivery\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 11\2017 Delivery\CaseStudyStep1\CaseStudyStep1\obj\Debug\CaseStudyStep1.pdb

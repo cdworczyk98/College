@@ -1,0 +1,11 @@
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep4\bin\Debug\EmployeeInheritanceStep4.exe
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep4\bin\Debug\EmployeeInheritanceStep4.pdb
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.exe
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\bin\Debug\EmployeeInheritanceStep4.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\bin\Debug\EmployeeInheritanceStep4.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.csprojResolveAssemblyReference.cache
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 9\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.exe
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 9\EmployeeInheritanceStep4\EmployeeInheritanceStep4\EmployeeInheritanceStep4\obj\Debug\EmployeeInheritanceStep4.pdb

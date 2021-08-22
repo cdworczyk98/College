@@ -1,0 +1,14 @@
+C:\Users\dawnwilson\AppData\Local\Temporary Projects\PassingParameters\bin\Debug\PassingParameters.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\bin\Debug\PassingParameters.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\bin\Debug\PassingParameters.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\bin\Debug\PassingParameters.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.csprojResolveAssemblyReference.cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\MainWindow.baml
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\MainWindow.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\App.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters_MarkupCompile.cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.g.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.Properties.Resources.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.csproj.GenerateResource.Cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\2 - PassingParameters\PassingParameters\PassingParameters\obj\Debug\PassingParameters.pdb

@@ -1,0 +1,19 @@
+C:\Users\dawnwilson\AppData\Local\Temporary Projects\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe.config
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe.config
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.csprojResolveAssemblyReference.cache
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.csprojResolveAssemblyReference.cache
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe.config
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.pdb
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.exe
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\bin\Debug\EmployeeInheritanceStep1.pdb
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.csprojResolveAssemblyReference.cache
+E:\HND\Block 1 & 2\HND - OOP\Exercises\Week 8\EmployeeInheritanceStep1\EmployeeInheritanceStep1\obj\Debug\EmployeeInheritanceStep1.exe

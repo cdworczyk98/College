@@ -1,0 +1,14 @@
+Task....
+
+To import flat files in a given format, convert to a different compatible (readable format) that can be used by a given software.
+
+Instruction
+
+1. Follow the steps in the word document (Excel-to-Text-for-submitting-via-HEPCAT) to convert the following excel files to text files and save
+the new text files with a different name (e.g. Excelfile1_your initials)
+
+2. Import the text files back into MS Access, convert back to excel and export as excel files.
+
+Question.
+
+Compare the data in the both flat file formats, what can you observe?

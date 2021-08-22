@@ -1,0 +1,1 @@
+﻿ALTER TABLE patient DROP COLUMN DOB;

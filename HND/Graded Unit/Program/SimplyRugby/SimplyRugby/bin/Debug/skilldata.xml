@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skillset>
+    <sru>12344321</sru>
+    <standard>3</standard>
+    <spin>2</spin>
+    <pop>4</pop>
+    <passingcomment>rtytryyyy</passingcomment>
+    <front>2</front>
+    <rear>4</rear>
+    <side>4</side>
+    <scrabble>4</scrabble>
+    <tacklingcomment>rty</tacklingcomment>
+    <drop>4</drop>
+    <punt>2</punt>
+    <grubber>4</grubber>
+    <goal>2</goal>
+    <kickingcomment>try</kickingcomment>
+    <lastedited>09/05/2018</lastedited>
+  </skillset>
+</skills>

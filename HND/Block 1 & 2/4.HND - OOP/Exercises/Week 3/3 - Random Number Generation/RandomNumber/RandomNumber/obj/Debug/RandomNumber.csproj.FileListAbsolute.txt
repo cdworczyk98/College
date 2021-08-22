@@ -1,0 +1,13 @@
+C:\Users\dawnwilson\AppData\Local\Temporary Projects\RandomNumber\bin\Debug\RandomNumber.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\MainWindow.baml
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\MainWindow.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\App.g.cs
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber_MarkupCompile.cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber.g.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber.Properties.Resources.resources
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.GenerateResource.Cache
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+F:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 3\2017 Walkthroughs\3 - Random Number Generation\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb

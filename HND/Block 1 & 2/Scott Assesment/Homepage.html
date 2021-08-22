@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+
+<!-- Include meta tag to ensure proper rendering and touch zooming -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Include jQuery Mobile stylesheets -->
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+<!-- Include the jQuery library -->
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!-- Include the jQuery Mobile library -->
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+</head>
+
+<body>
+
+
+<div data-role="page" id="pageone">
+
+  <div data-role="header">
+      <img src="../../Desktop/Untitled-2.png" width="200" height="60" alt="hotels" style="width:50%"/>
+      <a href="#panelPage" class="ui-btn ui-shadow ui-corner-all ui-icon-grid ui-btn-icon-left">Menu</a>
+      <a href="#loginPage" class="ui-btn ui-shadow ui-corner-all ui-icon-lock ui-btn-icon-right">Login</a>
+  </div>
+  
+  <div data-role="panel" id="panelPage"> 
+    <h2>Menu</h2>
+    <a href="#" class="ui-btn ui-shadow ui-corner-all">Home</a>
+    <a href="#" class="ui-btn ui-shadow ui-corner-all">Rent Movie</a>
+    <a href="#" class="ui-btn ui-shadow ui-corner-all">Book Movie</a>
+    <a href="#" class="ui-btn ui-shadow ui-corner-all">About Us</a>
+  </div>
+	
+
+  <div data-role="main" class="ui-content">
+    <p>Welcome to this glorious webiste, on here you can find the latest movies to watch in our cinemas or rent movies to watch in the comfort of your own house!</p>
+    <a href="#pageRent" class="ui-btn ui-btn-inline ui-corner-all ui-shadow ui-icon-arrow-r ui-btn-icon-right" data-transition="slide">Rent Movie</a>
+    <a href="#pageWatch" class="ui-btn ui-btn-inline ui-corner-all ui-shadow ui-icon-arrow-r ui-btn-icon-right" data-transition="slide">Book Seat</a>
+  </div>
+  
+  <div data-role="footer">
+      <h1>Find us on social media!</h1>
+      <a href="#" class="ui-btn ui-icon-mail ui-btn-icon-right ui-shadow ui-corner-all">Twitter</a>
+      <a href="#" class="ui-btn ui-icon-cloud ui-btn-icon-right ui-shadow ui-corner-all">Twitter</a>
+      <a href="#" class="ui-btn ui-icon-camera ui-btn-icon-right ui-shadow ui-corner-all">Instagram</a>
+  </div>
+
+</div>
+
+<div data-role="page" id="pagetwo">
+
+  <div data-role="header">
+    <a href="#pageone" class="ui-btn ui-icon-home ui-btn-icon-left ui-btn-inline ui-corner-all ui-shadow">Home</a>
+    <a href="#" class="ui-btn ui-icon-search ui-btn-icon-right ui-btn-inline ui-corner-all ui-shadow">Search</a>
+    <h1>Choose A Date</h1>
+  </div>
+
+  <div data-role="main" class="ui-content">
+    <a href="#pagethree" class="ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-shadow" data-transition="slide">Next</a>
+  </div>
+  
+  <div data-role="footer">
+    <h1>Footer</h1>
+  </div>
+  
+</div>
+
+<div data-role="page" id="pagethree">
+
+  <div data-role="header">
+    <h1>Welcome To My Third Page</h1>
+  </div>
+
+  <div data-role="main" class="ui-content">
+    <a href="#pageone" class="ui-btn ui-btn-inline ui-corner-all ui-shadow" data-transition="slide" data-direction="reverse">Go To Page One</a>
+  </div>
+  
+    <div data-role="footer">
+    <h1>Footer</h1>
+    <a href="#" class="ui-btn ui-corner-all ui-shadow" data-rel="back" data-transition="slide" data-direction="reverse">Go Back</a>
+  </div>
+  
+</div>
+
+
+</body>
+</html>
+
+

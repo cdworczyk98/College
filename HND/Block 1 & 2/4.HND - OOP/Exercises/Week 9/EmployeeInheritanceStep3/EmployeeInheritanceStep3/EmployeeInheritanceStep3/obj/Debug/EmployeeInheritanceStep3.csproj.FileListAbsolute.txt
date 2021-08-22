@@ -1,0 +1,8 @@
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep3\bin\Debug\EmployeeInheritanceStep3.exe
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep3\bin\Debug\EmployeeInheritanceStep3.pdb
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep3\obj\Debug\EmployeeInheritanceStep3.exe
+C:\Users\stevenanddawn\AppData\Local\Temporary Projects\EmployeeInheritanceStep3\obj\Debug\EmployeeInheritanceStep3.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep3\EmployeeInheritanceStep3\EmployeeInheritanceStep3\obj\Debug\EmployeeInheritanceStep3.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep3\EmployeeInheritanceStep3\EmployeeInheritanceStep3\obj\Debug\EmployeeInheritanceStep3.pdb
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep3\EmployeeInheritanceStep3\EmployeeInheritanceStep3\bin\Debug\EmployeeInheritanceStep3.exe
+E:\HND Software Development\HND_SD_2o15_16\Block1\SD_OOP (H171 35)\Presentations week by week\Week 6\EmployeeInheritanceStep3\EmployeeInheritanceStep3\EmployeeInheritanceStep3\bin\Debug\EmployeeInheritanceStep3.pdb

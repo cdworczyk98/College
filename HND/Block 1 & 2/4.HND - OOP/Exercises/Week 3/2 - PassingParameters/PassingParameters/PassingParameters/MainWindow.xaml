@@ -1,0 +1,10 @@
+﻿<Window x:Class="PassingParameters.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btn_Result" Content="Run Program" HorizontalAlignment="Left" Margin="64,124,0,0" VerticalAlignment="Top" Width="118" Height="71" Click="btn_Result_Click"/>
+        <TextBlock x:Name="txtblk_Result" HorizontalAlignment="Left" Margin="265,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="194" Width="166"/>
+
+    </Grid>
+</Window>

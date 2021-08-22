@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>3.0</SchemaVersion>
+  <CreatedDate>2018/05/17 10:57:55 (BST)</CreatedDate>
+  <ModifiedDate>2018/05/17 11:01:28 (BST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.5.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.5.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>energydrink_20180517_105755</Name>
+    <DisplayName>energydrink</DisplayName>
+    <Number>34</Number>
+    <Examiner>chris</Examiner>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+</AutopsyCase>

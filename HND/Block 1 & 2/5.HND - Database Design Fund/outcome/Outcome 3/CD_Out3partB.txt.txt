@@ -1,0 +1,69 @@
+TASK 1
+_________
+
+SELECT UPPer(PatientName) 
+FROM patient 
+WHERE PatientAddress2 = 'Edinburgh'
+
+TASK 2
+__________
+
+SELECT InvoiceNo, DoctorName 
+FROM invoice 
+WHERE Total > 61 and Total < 141
+
+TASK 3
+_______
+
+SELECT InvoiceNo, DoctorName, Total 
+FROM invoice 
+WHERE Total > 61 and Total < 141 
+ORDER BY Total
+
+TASK 4
+_______
+
+SELECT SUM(Total) as 'Balance, £' 
+FROM invoice 
+WHERE PatientID = 'F129'
+
+TASK 5
+_______
+
+SELECT DISTINCT(COUNT(PatientName)) as 'Dunfermline Numbers' 
+FROM patient 
+WHERE PatientAddress2 = 'Dunfermline'
+
+TASK 6
+_______
+
+SELECT ROUND(AVG(ProcedureCost), 2) as 'Average charges, £'
+FROM treatment
+
+TASk 7
+_______
+
+SELECT DISTINCT(DoctorName) 
+FROM invoice
+
+TASK 8
+______
+
+SELECT PatientName, PatientTelNo 
+FROM patient 
+WHERE PatientTelNo LIKE '01592%'
+
+TASK 9
+_______
+
+SELECT doctorname as 'Doctor', SUM(total) as 'treatment revenu'
+FROM invoice
+group by doctorname
+
+TASK 10
+________
+SELECT patient.patientname as 'patient', sum(invoice.total) as 'Balance, £'
+FROM patient INNER JOIN invoice
+ON patient.PatientID = patient.patientid
+WHERE patient.patientid = 'f125'
+GROUP BY patient.patientname

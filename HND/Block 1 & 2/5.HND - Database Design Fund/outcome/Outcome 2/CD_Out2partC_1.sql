@@ -1,0 +1,2 @@
+﻿ALTER TABLE patient
+ADD DOB date NOT NULL;
